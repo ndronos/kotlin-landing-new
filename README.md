@@ -14,7 +14,7 @@ Reference:
 ## [The Complete Kotlin Developer Course](https://www.udemy.com/the-complete-kotlin-developer-course/)
 Udemy/[Hussein Al Rubaye](https://www.udemy.com/user/hussein-talib/)  
 Github:[hussien89aa](https://github.com/hussien89aa)/[KotlinUdemy](https://github.com/hussien89aa/KotlinUdemy)  
-July 2017, 21:06:54  
+July 2017, 23:15:22  
 ```
 1   Introduction and Setup the Environment      07:07   •
 2   Variables                                   45:29
@@ -31,7 +31,8 @@ July 2017, 21:06:54
 13  Complete Tic Tac Toe Game                   45:57
 14  Calculator App                            1:23:49
 15  Pokemon Game on Android                   1:01:53
-16  Zoo App                                   1:02:55
+16  Zoo App                                   1:09:36
+*   Restaurant Menu                             46:39
 17  Web services Find City Sunrise Time App   1:05:23
 16  SQLite Database My Notes App              2:36:56
 17  Firebase Online Tic Tac Toe Game          1:39:21
@@ -39,5 +40,6 @@ July 2017, 21:06:54
 19  Media Player for Play Online and Local      55:21
 20  Complete Alarm App                          56:13
 21  Sensors App                                 28:00
+*   Find My Phone App                         1:15:08
 22  Publish App to Store                        19:00
 ```

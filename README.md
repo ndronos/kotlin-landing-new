@@ -16,7 +16,7 @@ Udemy/[Hussein Al Rubaye](https://www.udemy.com/user/hussein-talib/)
 Github:[hussien89aa](https://github.com/hussien89aa)/[KotlinUdemy](https://github.com/hussien89aa/KotlinUdemy)  
 July 2017, 21:06:54  
 ```
-1   Introduction and Setup the Environment      07:07
+1   Introduction and Setup the Environment      07:07   •
 2   Variables                                   45:29
 3   Operations and Priorities                   40:01
 4   Decision Making                             45:18

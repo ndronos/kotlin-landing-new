@@ -6,3 +6,9 @@ Guide:[intellij-support](https://intellij-support.jetbrains.com/hc/en-us/article
 Reference:  
 ¹ JetBrains/kotlin/[.gitignore](https://github.com/JetBrains/kotlin/blob/master/.gitignore)  
 ² JetBrains/kotlin-native/[.gitignore](https://github.com/JetBrains/kotlin-native/blob/master/.gitignore)  
+
+
+# /Courses
+
+
+## [The Complete Kotlin Developer Course](https://www.udemy.com/the-complete-kotlin-developer-course/)

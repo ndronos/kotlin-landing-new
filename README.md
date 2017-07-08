@@ -32,14 +32,14 @@ July 2017, 23:15:22
 14  Calculator App                            1:23:49
 15  Pokemon Game on Android                   1:01:53
 16  Zoo App                                   1:09:36
-*   Restaurant Menu                             46:39
-17  Web services Find City Sunrise Time App   1:05:23
-16  SQLite Database My Notes App              2:36:56
-17  Firebase Online Tic Tac Toe Game          1:39:21
-18  Firebase Twitter and Facebook App         2:15:06
-19  Media Player for Play Online and Local      55:21
-20  Complete Alarm App                          56:13
-21  Sensors App                                 28:00
-*   Find My Phone App                         1:15:08
-22  Publish App to Store                        19:00
+17  Restaurant Menu                             46:39
+18  Web services Find City Sunrise Time App   1:05:23
+19  SQLite Database My Notes App              2:36:56
+20  Firebase Online Tic Tac Toe Game          1:39:21
+21  Firebase Twitter and Facebook App         2:15:06
+22  Media Player for Play Online and Local      55:21
+23  Complete Alarm App                          56:13
+24  Sensors App                                 28:00
+25  Find My Phone App                         1:15:08
+26  Publish App to Store                        19:00
 ```

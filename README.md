@@ -17,7 +17,7 @@ Github:[hussien89aa](https://github.com/hussien89aa)/[KotlinUdemy](https://githu
 July 2017, 23:15:22  
 ```
 1   Introduction and Setup the Environment      07:07   •
-2   Variables                                   45:29
+2   Variables                                   45:29   •
 3   Operations and Priorities                   40:01
 4   Decision Making                             45:18
 5   Loop Control                                21:48

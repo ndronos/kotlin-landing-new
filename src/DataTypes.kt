@@ -1,28 +1,30 @@
 /**
- * Iterate: Rubaye Lesson 2.8
- * var String Int
+ * Iterate: Rubaye Lesson 2.8 2.9
+ * val var String Int
  * ? Null + Concatenation
  */
 
 fun main(args: Array<String>) {
 
-    var named = "JetBrains"
+    val named = "JetBrains"
     println(named)
 
-    var name:String = "Kotlin"
+    val name:String = "Kotlin"
     println(name)
 
-    var year:Int = 2017
+    val year:Int = 2017
     println(year)
 
-    var tool:String
+    val tool:String
     tool = "IntelliJ IDEA"
     println(tool)
 
-    var canary:String?
+    val canary:String?
     canary = "Android Studio"
     var version:Int?
     version = 3
+    println(canary + " " + version)
+    version = 4
     println(canary + " " + version)
 
 }

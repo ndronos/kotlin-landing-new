@@ -1,7 +1,7 @@
 /**
- * Iterate: Rubaye Lesson 2.6
+ * Iterate: Rubaye Lesson 2.6 2.12
  * print() println()
- * \n
+ * \n //... /*...*/ Comments
  */
 
 fun main(args: Array<String>) {

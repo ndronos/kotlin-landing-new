@@ -90,7 +90,7 @@ October 2016, ~3h
 
 ## [Kotlin Tutorial](https://www.youtube.com/watch?v=H_oGi8uuDpA)
 Youtube/[DerekBanas](https://www.youtube.com/derekbanas)  
-Code:[NewThinkTank](http://www.newthinktank.com/)  
+Code:[NewThinkTank](http://www.newthinktank.com/)/[kotlin-tutorial](http://www.newthinktank.com/2017/05/kotlin-tutorial/)  
 
 
 

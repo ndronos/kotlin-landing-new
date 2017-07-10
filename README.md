@@ -123,6 +123,8 @@ Udemy/[Dmitri Nesteruk](https://udemy.com/user/dmitrinesteruk/)
 
 ## [Programming Practice (CS109)](http://otfried.org/courses/cs109/index.html)
 [Otfried Cheong](http://otfried.org/)  
+/[tutorial](http://otfried.org/courses/cs109/tutorial.html)  
+    
 
 
 

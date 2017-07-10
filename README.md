@@ -48,6 +48,10 @@ July 2017, 23:15:22
 ```
 
 
+## [Introduction to Kotlin Programming](https://player.oreilly.com/videos/9781491964118)
+
+
+
 # /env /opt
 
 ### [.gitignore](/.gitignore)

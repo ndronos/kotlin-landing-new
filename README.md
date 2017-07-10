@@ -51,6 +51,7 @@ July 2017, 23:15:22
 ## [Introduction to Kotlin Programming](https://player.oreilly.com/videos/9781491964118)
 O'Reilly/[Hadi Hariri](http://www.oreilly.com/pub/au/4678)  
 Github:[hhariri](https://github.com/hhariri)/[oreilly-kotlin-course](https://github.com/hhariri/oreilly-kotlin-course)  
+October 2016, ~5h14min  
 
 
 # /env /opt

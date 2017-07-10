@@ -53,6 +53,20 @@ O'Reilly/[Hadi Hariri](http://www.oreilly.com/pub/au/4678)
 Github:[hhariri](https://github.com/hhariri)/[oreilly-kotlin-course](https://github.com/hhariri/oreilly-kotlin-course)  
 ¹ [From Hello World to Interoperability with Java](http://shop.oreilly.com/product/0636920052982.do)  
 October 2016, ~5h14min  
+```
+1   Introduction            08:16
+2   A Primer on Kotlin      31:12
+3   The Basics of Kotlin    32:26
+4   fun with Functions      16:30
+5   Classes in Kotlin       42:14
+6   Inheritance et al.      25:07
+7   Working with Nulls      13:22
+8   A handful of tidbits    34:37
+9   Getting Functional      30:35
+10  Interoperability        38:17
+11  Standard Library        38:01
+12  Build Tools             03:56
+```
 
 
 # /env /opt

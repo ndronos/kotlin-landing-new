@@ -86,6 +86,10 @@ October 2016, ~3h
 ```
 
 
+## [Kotlin Programming](https://udemy.com/kotlin-course/)
+
+
+
 # /Tutorials
 
 ## [Kotlin Tutorial](https://www.youtube.com/watch?v=H_oGi8uuDpA)

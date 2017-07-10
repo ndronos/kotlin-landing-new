@@ -86,6 +86,11 @@ October 2016, ~3h
 ```
 
 
+# /Tutorials
+
+## [Kotlin Tutorial](https://www.youtube.com/watch?v=H_oGi8uuDpA)
+
+
 
 # /env /opt
 

@@ -69,6 +69,10 @@ October 2016, ~5h14min
 ```
 
 
+## [Advanced Kotlin Programming](https://player.oreilly.com/videos/9781491964132)
+
+
+
 # /env /opt
 
 ### [.gitignore](/.gitignore)

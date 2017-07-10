@@ -74,6 +74,17 @@ O'Reilly/[Hadi Hariri](http://www.oreilly.com/pub/au/4678)
 Github:[hhariri](https://github.com/hhariri)/[oreilly-kotlin-course](https://github.com/hhariri/oreilly-kotlin-course)  
 ¹ [From Nested Functions to Asynchronous Programming](http://shop.oreilly.com/product/0636920052999.do)  
 October 2016, ~3h  
+```
+1   Introduction                      00:53
+2   Diving Deeper into Functions    1:00:32
+3   Class Scenarios                   30:26
+4   Delegation                        21:23
+5   Diving Deeper into Generics       17:53
+6   Metaprogramming                   33:13
+7   Asynchronous Programming          15:32
+    Conclusion                        00:34
+```
+
 
 
 # /env /opt

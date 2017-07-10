@@ -88,6 +88,7 @@ October 2016, ~3h
 
 ## [Kotlin Programming](https://udemy.com/kotlin-course/)
 Udemy/[Peter Sommerhoff](https://udemy.com/user/petersommerhoff/)  
+2016, 5:36:42
 
 
 

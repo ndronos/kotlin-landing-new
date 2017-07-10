@@ -90,6 +90,22 @@ October 2016, ~3h
 Udemy/[Peter Sommerhoff](https://udemy.com/user/petersommerhoff/)  
 2016, 5:36:42
 
+```
+1   Welcome                                 07:14
+2   What is Kotlin?                         06:16
+3   Getting the Tools                       09:39
+4   Getting Started with Kotlin             36:57
+5   Conditional Statements                  22:47
+6   Arrays and Lists                        17:44
+7   Lucky Loop                              18:42
+8   Congrats Novice!                        04:03
+9   Functions                               18:24
+10  Object-Oriented Programming - Part I  1:00:12
+11  Object-Oriented Programming - Part II   50:48
+12  Binary & Hexadecimal Numbers            32:13
+13  Object-Oriented Programming - Part III  46:43
+```
+
 
 
 # /Tutorials

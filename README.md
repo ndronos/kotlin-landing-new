@@ -107,6 +107,8 @@ Udemy/[Peter Sommerhoff](https://udemy.com/user/petersommerhoff/)
 ```
 
 
+## [Kotlin for Java Developers](https://udemy.com/kotlin-java/)
+
 
 # /Tutorials
 

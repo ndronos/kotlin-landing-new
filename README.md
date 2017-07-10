@@ -92,6 +92,30 @@ October 2016, ~3h
 Youtube/[DerekBanas](https://www.youtube.com/derekbanas)  
 Code:[NewThinkTank](http://www.newthinktank.com/)/[kotlin-tutorial](http://www.newthinktank.com/2017/05/kotlin-tutorial/)  
 May 2017, 01:26:23  
+```
+    MacOS Install               00:30
+    Windows Install             02:49
+    Data Types                  04:30
+    Casting                     12:07
+    Strings                     13:45
+    Arrays                      20:43
+    Ranges                      25:52
+    Conditionals                29:54
+    If                          30:24
+    When                        32:21
+    For                         34:02
+    While                       35:18
+    Functions                   40:23
+    Higher Order Functions      50:44
+    Collection Operators        56:40
+    Exception Handling        1:01:00
+    Lists                     1:03:05
+    Maps                      1:08:00
+    Classes                   1:10:50
+    Inheritance               1:16:00
+    Interfaces                1:18:12
+    Null Safety               1:22:22
+```
 
 
 

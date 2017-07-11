@@ -177,7 +177,7 @@ Youtube:[playlist](https://www.youtube.com/playlist?list=PLQ176FUIyIUZDaQr1pEyix
 01:54 [Kotlin - Hello World](https://www.youtube.com/watch?v=iMMBrcabSOI)  
 01:49 [Kotlin - Variable Basics](https://www.youtube.com/watch?v=bklpMxuzCWU)  
 
-02:23 [Getting Started with Kotlin in 2 minutes](https://youtube.com/watch?v=viiDaLpPfN4)  
+02:23 [Getting Started with Kotlin in 2 minutes](https://youtube.com/watch?v=viiDaLpPfN4)   •  
 
 
 ## [Kotlin Tutorial](https://www.youtube.com/watch?v=H_oGi8uuDpA)

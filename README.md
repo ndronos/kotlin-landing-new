@@ -6,7 +6,8 @@
 [DataTypes](/src/DataTypes.kt)  
 [Inputs](/src/Inputs.kt)  
 [NullSafety](/src/NullSafety.kt)  
-[DataClass](/src/DataClass.kt)
+[DataClass](/src/DataClass.kt)  
+[ArrayFilter](/src/ArrayFilter.kt)  
 
 
 # /src /Scripting

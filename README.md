@@ -2,7 +2,7 @@
 
 
 # /src
-[Hello](/src/Hello.kt)  
+[Hello](/src/Hello.kt) [helloSimplestVersion](/src/helloSimplestVersion.kt)  
 [DataTypes](/src/DataTypes.kt)  
 [Inputs](/src/Inputs.kt)  
 [NullSafety](/src/NullSafety.kt)  

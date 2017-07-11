@@ -125,7 +125,7 @@ Udemy/[Dmitri Nesteruk](https://udemy.com/user/dmitrinesteruk/)
 [Otfried Cheong](http://otfried.org/)  
 /[tutorial](http://otfried.org/courses/cs109/tutorial.html)  
 /[introduction](http://otfried.org/courses/cs109/tutorial-basic-kotlin.html)    
-
+/[projects](http://otfried.org/courses/cs109/projects.html)  
 
 
 # /Tutorials

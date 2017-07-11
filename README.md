@@ -34,6 +34,8 @@ FAQ
 
 # [/Books](https://kotlinlang.org/docs/books.html)
 
+## [Kotlin in Action](https://manning.com/books/kotlin-in-action)
+
 
 
 

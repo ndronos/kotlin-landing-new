@@ -169,6 +169,10 @@ Week 16   Reserve
 
 # /Tutorials
 
+
+## [JetBrainsTV](https://www.youtube.com/user/JetBrainsTV) 
+
+
 ## [Kotlin Tutorial](https://www.youtube.com/watch?v=H_oGi8uuDpA)
 Youtube/[DerekBanas](https://www.youtube.com/derekbanas)  
 Code:[NewThinkTank](http://www.newthinktank.com/)/[kotlin-tutorial](http://www.newthinktank.com/2017/05/kotlin-tutorial/)  

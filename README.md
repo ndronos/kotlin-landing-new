@@ -220,6 +220,12 @@ May 2017, 01:26:23
 # /[REPL](https://kotlinlang.org/docs/tutorials/command-line.html#running-the-repl)
 
 Run the compiler without parameters to have an interactive shell. Type any valid Kotlin code and see the results.
+```
+$ kotlinc
+Welcome to Kotlin version ... (JRE ...)
+Type :help for help, :quit for quit
+>>> 
+```
 
 
 # /env /opt

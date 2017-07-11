@@ -59,7 +59,41 @@ Appendixes
 
 ## [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers)
 by Antonio Leiva
-
+```
+I   About this book
+II  Is this book for you?
+III About the author
+ 1  Introduction
+ 2  Getting ready
+ 3  Creating a new project
+ 4  Classes and functions
+ 5  Writing your first class
+ 6  Variables and properties
+ 7  Anko and Extension Functions
+ 8  Retrieving data from API
+ 9  Data Classes
+10  Parsing data
+11  Operator overloading
+12  Making the forecast list clickable
+13  Lambdas
+14  Visibility Modifiers
+15  Kotlin Android Extensions
+16  Application Singleton and Delegated Properties
+17  Creating an SQLiteOpenHelper
+18  Collections and functional operations
+19  Saving and requesting data from database
+20  Null safety in Kotlin
+21  Creating the business logic to data access
+22  Flow control and ranges
+23  Creating a Detail Activity
+24  Interfaces and Delegation
+25  Generics
+26  Settings Screen
+27  A first walk into coroutines
+28  Testing your App
+29  Extra concepts
+30  Conclusion
+```
 
 ## [Modern Web Development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin)
 

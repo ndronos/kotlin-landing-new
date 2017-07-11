@@ -172,8 +172,9 @@ Week 16   Reserve
 
 
 ## [JetBrainsTV](https://www.youtube.com/user/JetBrainsTV) and [IntellijIDEAVideo](https://www.youtube.com/user/IntellijIDEAVideo)
-01:54 [Kotlin - Hello World](https://www.youtube.com/watch?v=iMMBrcabSOI) 
-01:49 [Kotlin - Variable Basics](https://www.youtube.com/watch?v=bklpMxuzCWU)
+Youtube:[playlist](https://www.youtube.com/playlist?list=PLQ176FUIyIUZDaQr1pEyixuuPBX4mvt6_)  
+01:54 [Kotlin - Hello World](https://www.youtube.com/watch?v=iMMBrcabSOI)  
+01:49 [Kotlin - Variable Basics](https://www.youtube.com/watch?v=bklpMxuzCWU)  
 
 02:23 [Getting Started with Kotlin in 2 minutes](https://youtube.com/watch?v=viiDaLpPfN4)  
 

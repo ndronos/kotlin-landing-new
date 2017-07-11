@@ -8,7 +8,7 @@
 [NullSafety](/src/NullSafety.kt)  
 [DataClass](/src/DataClass.kt)  
 [ArrayFilter](/src/ArrayFilter.kt)  
-
+[listOfCollections](/src/listOfCollections.kt)
 
 # /src /Scripting
 [list_folders](/src/Scripting/list_folders.kts)

@@ -36,6 +36,9 @@ FAQ
 
 ## [Kotlin in Action](https://manning.com/books/kotlin-in-action)
 
+## [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers)
+
+
 
 
 

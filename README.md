@@ -213,6 +213,7 @@ May 2017, 01:26:23
 [Kotlin and Android](https://developer.android.com/kotlin/index.html)  
 [Get Started with Kotlin on Android](https://developer.android.com/kotlin/get-started.html)  
 [Kotlin on Android FAQ](https://developer.android.com/kotlin/faq.html)  
+[Resources to Learn Kotlin](https://developer.android.com/kotlin/resources.html)  
 
 
 

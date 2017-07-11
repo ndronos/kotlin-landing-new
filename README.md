@@ -42,6 +42,8 @@ FAQ
 
 ## [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
 
+## [Fundamental Kotlin](http://www.fundamental-kotlin.com/)
+
 
 
 # /Courses

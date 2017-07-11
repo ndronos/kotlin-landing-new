@@ -128,6 +128,25 @@ Piazza:[spring2017/cs109](https://piazza.com/kaist.ac.kr/spring2017/cs109/home)
 /[tutorial](http://otfried.org/courses/cs109/tutorial.html)
 /[introduction](http://otfried.org/courses/cs109/tutorial-basic-kotlin.html)
 /[projects](http://otfried.org/courses/cs109/projects.html)  
+```
+Week 1 	  Introduction, command line tools
+Week 2 	  Basic Kotlin, command line arguments
+Week 3 	  Types of objects, dynamic and static typing
+Week 3 	  Number types
+Week 4 	  Dynamically allocated objects, stack frames, garbage collection
+Week 5 	  Arrays and lists
+Week 6 	  Sets and maps
+Week 7 	  Strings and text processing
+Week 8 	  Midterm exam
+Week 9 	  Function objects
+Week 10   Higher-order functions
+Week 11   Compiled programs
+Week 12   Objects
+Week 13   Object-oriented programming I
+Week 14   Object-oriented programming II
+Week 15   Project presentations
+Week 16   Reserve 
+```
 
 
 # /Tutorials

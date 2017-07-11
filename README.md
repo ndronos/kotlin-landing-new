@@ -36,6 +36,26 @@ FAQ
 
 ## [Kotlin in Action](https://manning.com/books/kotlin-in-action)
 by Dimitry Jemerov, Svetlana Isakova
+```
+Part 1: Introduction
+     1. Kotlin: What and Why
+     2. Kotlin basics
+     3. Defining and calling functions
+     4. Classes, objects, and interfaces
+     5. Programming with lambdas
+     6. The Kotlin type system
+Part 2: Embracing Kotlin
+     7. Operator overloading and other conventions
+     8. Higher-order functions: lambdas as parameters and return values
+     9. Generics
+     10. Annotations and Reflection
+     11. DSL construction
+Appendixes
+    Appendix A: Building Kotlin projects
+    Appendix B: Documenting Kotlin code
+    Appendix C: The Kotlin ecosystem
+```
+
 
 ## [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers)
 

@@ -35,6 +35,7 @@ FAQ
 # [/Books](https://kotlinlang.org/docs/books.html)
 
 ## [Kotlin in Action](https://manning.com/books/kotlin-in-action)
+by Dimitry Jemerov, Svetlana Isakova
 
 ## [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers)
 

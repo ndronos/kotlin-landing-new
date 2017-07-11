@@ -246,8 +246,7 @@ May 2017, 01:26:23
 
 # /Events
 
-## [KotlinConf](https://kotlinconf)
-
+## [KotlinConf](https://kotlinconf) [@kotlinconf](https://twitter.com/kotlinconf)
 
 
 

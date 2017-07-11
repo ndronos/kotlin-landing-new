@@ -24,3 +24,12 @@ fun main(args: Array<String>) {
     println("New Pi: "+ pi)
 
 }
+/**
+ * print() allow enter value near to the message
+ *
+ * readLine() brings input as string
+ * enforce with Types and conversions
+ *
+ * Comments are ignored by compiler/debugger
+ * and intend to make your code readable
+ */

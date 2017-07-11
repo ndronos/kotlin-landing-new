@@ -14,6 +14,20 @@
 # [/docs](http://kotlinlang.org/docs/) [/kotlin-docs.pdf](https://kotlinlang.org/docs/kotlin-docs.pdf)
 [/index](http://kotlinlang.org) What does it look like?  
 [/reference](https://kotlinlang.org/docs/reference/) [/kotlin-docs.pdf](https://kotlinlang.org/docs/kotlin-docs.pdf)    
+```
+Overview
+Getting Started
+Basics
+Classes and Objects
+Functions and Lambdas
+Other
+Core Libraries
+Reference
+Java Interop
+JavaScript
+Tools
+FAQ
+```
 
 
 # /Courses

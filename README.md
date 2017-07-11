@@ -6,6 +6,7 @@
 [DataTypes](/src/DataTypes.kt)  
 [Inputs](/src/Inputs.kt)  
 [NullSafety](/src/NullSafety.kt)  
+[DataClass](/src/DataClass.kt)
 
 
 # /src /Scripting

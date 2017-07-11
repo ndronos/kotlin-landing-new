@@ -244,12 +244,18 @@ May 2017, 01:26:23
     Null Safety               1:22:22
 ```
 
+# /Events
+
+## [KotlinConf](https://kotlinconf)
+
+
+
+
 # /[Android](https://developer.android.com/)
 [Kotlin and Android](https://developer.android.com/kotlin/index.html)  
 [Get Started with Kotlin on Android](https://developer.android.com/kotlin/get-started.html)  
 [Kotlin on Android FAQ](https://developer.android.com/kotlin/faq.html)  
 [Resources to Learn Kotlin](https://developer.android.com/kotlin/resources.html)  
-
 
 # [/Scripting](https://kotlinlang.org/docs/tutorials/command-line.html#using-the-command-line-to-run-scripts)
 Kotlin can also be used as a *scripting language*. A script is a Kotlin source file `.kts` with top level executable code.  

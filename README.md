@@ -11,8 +11,9 @@
 # /src /Scripting
 [list_folders](/src/Scripting/list_folders.kts)
 
-# [/docs](http://kotlinlang.org/docs/) [/kotlin-docs.pdf](https://kotlinlang.org/docs/kotlin-docs.pdf) Full Kotlin [Reference](https://kotlinlang.org/docs/reference/)
+# [/docs](http://kotlinlang.org/docs/) [/kotlin-docs.pdf](https://kotlinlang.org/docs/kotlin-docs.pdf)
 [/index](http://kotlinlang.org) What does it look like?  
+[/reference](https://kotlinlang.org/docs/reference/) [/kotlin-docs.pdf](https://kotlinlang.org/docs/kotlin-docs.pdf)    
 
 
 # /Courses

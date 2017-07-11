@@ -13,8 +13,8 @@ class Greeter(val name: String) {
 
 fun main(args: Array<String>) {
 
-    Greeter(args[0]).greet()
-
+//  Greeter(args[0]).greet()
+    Greeter("Kotlina!").greet()
 }
 
 /* (CLI) No arguments?

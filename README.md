@@ -172,6 +172,7 @@ Week 16   Reserve
 
 ## [JetBrainsTV](https://www.youtube.com/user/JetBrainsTV) and [IntellijIDEAVideo](https://www.youtube.com/user/IntellijIDEAVideo)
 01:54 [Kotlin - Hello World](https://www.youtube.com/watch?v=iMMBrcabSOI) 
+01:49 [Kotlin - Variable Basics](https://www.youtube.com/watch?v=bklpMxuzCWU)
 
 
 ## [Kotlin Tutorial](https://www.youtube.com/watch?v=H_oGi8uuDpA)

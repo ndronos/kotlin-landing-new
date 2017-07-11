@@ -12,7 +12,7 @@
 [list_folders](/src/Scripting/list_folders.kts)
 
 # [/docs](http://kotlinlang.org/docs/)
-  
+[/index](http://kotlinlang.org) What does it look like?  
 
 
 # /Courses

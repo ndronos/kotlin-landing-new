@@ -216,6 +216,9 @@ May 2017, 01:26:23
 [Resources to Learn Kotlin](https://developer.android.com/kotlin/resources.html)  
 
 
+# [/Scripting](https://kotlinlang.org/docs/tutorials/command-line.html#using-the-command-line-to-run-scripts)
+
+
 
 # /[REPL](https://kotlinlang.org/docs/tutorials/command-line.html#running-the-repl)
 

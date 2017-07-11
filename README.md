@@ -247,6 +247,8 @@ May 2017, 01:26:23
 # /Events
 
 ## [KotlinConf](https://kotlinconf) [@kotlinconf](https://twitter.com/kotlinconf)
+2-3 November 2017, in San Francisco, California  
+Keynotes by Andrey Breslav, Erik Meijer  
 
 
 

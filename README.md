@@ -38,7 +38,7 @@ FAQ
 
 ## [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers)
 
-
+## [Modern Web Development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin)
 
 
 

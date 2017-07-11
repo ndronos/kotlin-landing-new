@@ -123,10 +123,10 @@ Udemy/[Dmitri Nesteruk](https://udemy.com/user/dmitrinesteruk/)
 
 ## [Programming Practice (CS109)](http://otfried.org/courses/cs109/index.html)
 [Otfried Cheong](http://otfried.org/)  
-Github:[otfried](https://github.com/otfried)/[cs109-kotlin](https://github.com/otfried/cs109-kotlin)  
+Github:[otfried](https://github.com/otfried)/[cs109-kotlin](https://github.com/otfried/cs109-kotlin)
 Piazza:[spring2017/cs109](https://piazza.com/kaist.ac.kr/spring2017/cs109/home)  
-/[tutorial](http://otfried.org/courses/cs109/tutorial.html)  
-/[introduction](http://otfried.org/courses/cs109/tutorial-basic-kotlin.html)    
+/[tutorial](http://otfried.org/courses/cs109/tutorial.html)
+/[introduction](http://otfried.org/courses/cs109/tutorial-basic-kotlin.html)
 /[projects](http://otfried.org/courses/cs109/projects.html)  
 
 

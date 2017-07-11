@@ -28,3 +28,7 @@ fun main(args: Array<String>) {
     println(canary + " " + version)
 
 }
+/**
+ * Every memory has location and value
+ * Variables are just labeling the data
+ */

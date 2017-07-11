@@ -58,6 +58,8 @@ Appendixes
 
 
 ## [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers)
+by Antonio Leiva
+
 
 ## [Modern Web Development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin)
 

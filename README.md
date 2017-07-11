@@ -40,6 +40,8 @@ FAQ
 
 ## [Modern Web Development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin)
 
+## [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
+
 
 
 # /Courses

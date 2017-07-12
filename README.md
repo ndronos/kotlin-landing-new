@@ -180,6 +180,10 @@ Appendix A. Packages
 
 
 ## [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
+By Stephen Samuel, Stefan Bocutiu  
+January 2017  
+
+
 
 ## [Fundamental Kotlin](http://www.fundamental-kotlin.com/)
 

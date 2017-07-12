@@ -182,7 +182,21 @@ Appendix A. Packages
 ## [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
 By Stephen Samuel, Stefan Bocutiu  
 January 2017  
-
+```
+ 1  Getting Started with Kotlin
+ 2  Kotlin Basics
+ 3  Object-Oriented Programming in Kotlin
+ 4  Functions in Kotlin
+ 5  Higher Order Functions and Functional Programming
+ 6  Properties
+ 7  Null Safety, Reflection, and Annotations
+ 8  Generics
+ 9  Data Classes
+10  Collections
+11  Testing in Kotlin
+12  Microservices with Kotlin
+13  Concurrency
+```
 
 
 ## [Fundamental Kotlin](http://www.fundamental-kotlin.com/)

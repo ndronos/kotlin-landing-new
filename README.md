@@ -202,7 +202,121 @@ January 2017
 
 ## [Fundamental Kotlin](http://www.fundamental-kotlin.com/)
 by Miloš Vasić  
+```
+    About Fundamental Series
+    What is Kotlin?
+    How to start?
 
+1   Basics
+        Basic Syntax
+            Packages
+            Defining functions
+            Local variables
+            Comments
+            String templates
+            Conditional expressions
+            Null
+            Type checks and automatic casts
+            For loop
+            While loop
+            When expression
+            Ranges
+            Collections
+        Idioms
+            Data classes
+            Default values for function parameters
+            Traversing a map
+            Read-only collections
+            Lazy initialization
+            Extending functionalities
+            If not null shorthands
+            Return on when statement
+            Try / Catch
+            If expression
+            Single-expression functions
+            Calling methods on an object instance using 'with'
+        Basic types
+            Numbers in Kotlin
+            Characters in Kotlin
+            Booleans in Kotlin
+            Arrays in Kotlin
+            Strings in Kotlin
+        Control flow
+            If expression
+            When
+            For
+            While and Do..While
+            Jump operators
+            Jump operator labels
+            Return with labels
+
+2   Working with objects
+        Classes
+            Constructors
+            Secondary constructors
+            Members
+            Inheritance
+            Overriding
+            Abstraction
+            Class companion object
+            Sealed classes
+        Class properties
+        Interfaces
+        Visibility modifiers
+        Extensions
+            Extending class properties
+            Extending companion object
+        Data classes
+        Generics
+        Generic functions
+        Java's 'EXTENDS'
+        Nested classes
+        Inner classes
+        Enumeration
+        Kotlin Object
+        Singleton
+        Delegating behavior
+        Delegating properties
+        Property Delegation Requirements
+        Standard Delegates
+            Lazy
+            Observable
+        Storing Properties in a Map
+        
+3   Functions and Lambdas
+        Working with Functions
+            Passing Arguments
+            Named Arguments
+            Unit is Void
+            Single-Expression functions
+            Variable argument functions
+            Local functions
+        Generic Functions
+        Tail-recursive functions
+
+4   Higher-Order Functions and Lambdas
+        Higher-Order Functions
+        Lambda Expressions and Anonymous Functions
+        Function Types
+        Lambda Expression Syntax
+        Anonymous Functions
+        Closures
+
+5   Inline Functions
+
+6   Misc
+        Destructuring
+        Ranges
+        Type Checks and Casts
+        This
+        Equality
+        Operator overloading
+        Null Safety
+        Exceptions
+        
+    Summary
+    Literature
+```
 
 
 # /Courses

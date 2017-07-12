@@ -201,6 +201,7 @@ January 2017
 
 
 ## [Fundamental Kotlin](http://www.fundamental-kotlin.com/)
+by Miloš Vasić  
 
 
 

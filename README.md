@@ -97,6 +97,86 @@ III About the author
 
 ## [Modern Web Development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin)
 by Denis Kalinin
+```
+Preface
+Preparing the environment
+    Choosing the operating system
+    Installing Java Development Kit
+    Installing Kotlin
+    Installing IntelliJ IDEA
+    Installing Atom Editor
+Build tools
+    Command line
+    Gradle
+Editing source files
+    Using Atom
+    Using IntelliJ IDEA
+Language fundamentals
+    Using the REPL
+    Defining values
+    Lambdas
+    Type hierarchy
+    Nullable types
+    Collections
+    Defining classes
+    Defining objects
+    Type parametrization
+    Extension functions
+    Packages and imports
+    Loops and conditionals
+    String templates
+    Interfaces
+Functional programming
+    Higher-order functions
+    Tuples and data classes
+    Laziness
+    Algebraic data types
+    Option
+    Either
+    Promise
+Working with Vert.x
+    Installing Vert.x
+    Dispatching requests
+    Thymeleaf templates
+    Watching for source changes
+    Serving asynchronous results
+    Adding sunrise and sunset times
+    Using Java 8 Date and Time API
+    Adding weather information
+    Moving logic into services
+    Serving static assets
+Frontend integration
+    Setting up nvm
+    Choosing the versions
+    package.json
+    GruntJS and Gulp
+    Module bundlers
+    Using EcmaScript 6 with Babel
+    Explaining React
+    Separating the frontend
+    Initializing the frontend project
+    webpack.config.js explained
+    Using React
+    Sending data via JSON
+    Using Sass with Webpack
+    Extracting styles
+Authenticating users
+    Vert.x configuration
+    Installing PostgreSQL
+    Pooling connections with HikariCP
+    Hashing passwords with BCrypt
+    Migrating with Flyway
+    Implementing authentication logic
+    Page templates
+Testing and logging
+    Testing with KotlinTest
+    Logging in Vert.x
+Hosting and deployment
+    Hosting considerations
+    Preparing the distribution
+Closing remarks
+Appendix A. Packages
+```
 
 
 ## [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)

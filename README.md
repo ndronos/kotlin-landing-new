@@ -460,6 +460,21 @@ Week 16   Reserve
 by Svetlana Isakova * [Светлана Исакова](https://compscicenter.ru/teachers/1741/)  
 Fall 2016 * осень 2016   
 Github:[svtk](https://github.com/svtk/kotlin-course)/[kotlin-course](https://github.com/svtk/kotlin-course)
+```
+ 1  Introduction, basic syntax
+ 2  Nullable types, extension functions
+ 3  Nullabilty, the equals, the when, conventions
+ 4  The Objects, Companion objects,'s delegation, delegated properties
+ 5  About inline functions The more
+ 6  Generics reified
+ 7  Receiver with lambdas
+ 8  Builders Kotlin
+ 9  Kotlin the Java and the Mixing
+10  Variance
+11  Ladder
+12  Kotlin inference in the Type
+```
+
 
 
 # /Tutorials

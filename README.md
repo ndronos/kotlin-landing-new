@@ -459,7 +459,8 @@ Week 16   Reserve
 ## [Программирование на Kotlin](https://compscicenter.ru/courses/kotlin/2016-autumn/)
 by Svetlana Isakova * [Светлана Исакова](https://compscicenter.ru/teachers/1741/)  
 Fall 2016 * осень 2016   
-Github:[svtk](https://github.com/svtk/kotlin-course)/[kotlin-course](https://github.com/svtk/kotlin-course)
+Github:[svtk](https://github.com/svtk)/[kotlin-course](https://github.com/svtk/kotlin-course)
+/[lecture1](https://github.com/svtk/lecture1)
 ```
  1  Introduction, basic syntax
  2  Nullable types, extension functions

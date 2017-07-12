@@ -457,8 +457,7 @@ Week 16   Reserve
 
 
 ## [Программирование на Kotlin](https://compscicenter.ru/courses/kotlin/2016-autumn/)
-
-
+Fall 2016 * осень 2016 
 
 
 

@@ -478,6 +478,8 @@ Github:[svtk](https://github.com/svtk)/[kotlin-course](https://github.com/svtk/k
 
 
 ## [Kotlin Workshop]()
+by Svetlana Isakova
+
 
 
 

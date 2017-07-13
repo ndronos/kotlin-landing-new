@@ -482,6 +482,7 @@ by Svetlana Isakova
 Github:[svtk](https://github.com/svtk)/[kotlin-workshop](https://github.com/svtk/kotlin-workshop/) - JetBrains[/kotlin-workshop](https://github.com/JetBrains/kotlin-workshop)
 
 ## [Kotlin by Example]()
+by Hadi Hariri  
 
 
 

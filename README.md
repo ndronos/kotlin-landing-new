@@ -523,6 +523,9 @@ May 2017, 01:26:23
     Null Safety               1:22:22
 ```
 
+# [/Community](https://kotlinlang.org/community/) [/Talks](https://kotlinlang.org/community/talks.html)
+
+
 # /Events
 
 ## [KotlinConf](https://kotlinconf) [@kotlinconf](https://twitter.com/kotlinconf)
@@ -536,7 +539,6 @@ May 17-19, 2017, in Mountain View, California
 
 ## I/O '17 [Sessions](https://events.google.com/io/schedule)
 
-# [/Community](https://kotlinlang.org/community/)
 
 
 

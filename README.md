@@ -481,9 +481,11 @@ Github:[svtk](https://github.com/svtk)/[kotlin-course](https://github.com/svtk/k
 by Svetlana Isakova  
 Github:[svtk](https://github.com/svtk)/[kotlin-workshop](https://github.com/svtk/kotlin-workshop/) - JetBrains[/kotlin-workshop](https://github.com/JetBrains/kotlin-workshop)
 
-## [Kotlin by Example]()
+## [Kotlin by Example](kotlinbyexample.org)
 by Hadi Hariri  
 Github:[kotlinbyexample](https://github.com/kotlinbyexample)/[kotlinbyexample.github.io](https://github.com/kotlinbyexample/kotlinbyexample.github.io)  
+Site://[kotlinbyexample.org](kotlinbyexample.org)
+
 
 
 

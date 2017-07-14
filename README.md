@@ -510,6 +510,9 @@ by Hadi Hariri
 [Oct 6, 2016](https://www.youtube.com/watch?v=R0J_Jl7bKY8) GOTO 2016  
 [Mar 13, 2017](https://www.youtube.com/watch?v=-3uiFhI18g8) Voxxed Days  
 [Mar 6, 2016](https://www.youtube.com/watch?v=mSg9kSYfeX0) Voxxed Days  
+[Jun 2, 2016](https://www.youtube.com/watch?v=uupQ-SXzK28)  
+
+
 
 
 # /Tutorials

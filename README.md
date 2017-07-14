@@ -520,14 +520,15 @@ Fork:/[HelloKotlin](https://github.com/ncurilovic/HelloKotlin)
 ## [Kotlin - Redy for Production]()
 by Hadi Hariri  
 [Jun 1, 2017](https://www.youtube.com/watch?v=BnTtjywqAX8) GOTO 2017  
-[Oct 6, 2016](https://www.youtube.com/watch?v=R0J_Jl7bKY8) GOTO 2016 [Transcript](https://news.realm.io/news/gotocph-hadi-hariri-kotlin-ready-for-production/)  
+[Oct 6, 2016](https://www.youtube.com/watch?v=R0J_Jl7bKY8) GOTO 2016 [Transcript](https://news.realm.io/news/gotocph-hadi-hariri-kotlin-ready-for-production/) [Slides](https://gotocon.com/dl/goto-cph-2016/slides/HadiHariri_KotlinReadyForProduction.pdf)  
 [Mar 13, 2017](https://www.youtube.com/watch?v=-3uiFhI18g8) Voxxed Days  
 [Mar 6, 2016](https://www.youtube.com/watch?v=mSg9kSYfeX0) Voxxed Days  
 [Jun 2, 2016](https://www.youtube.com/watch?v=uupQ-SXzK28)  
 [Dec 9, 2016](https://www.youtube.com/watch?v=HIxEwuJKf7Q)  
 [Mar 17, 2016](https://www.youtube.com/watch?v=83N9hBWCIV4)  
 [Mar 21, 2017](https://www.youtube.com/watch?v=KFF-VZY-X-E)  
-
+``` 
+```
 
 # /Tutorials
 

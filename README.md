@@ -506,6 +506,7 @@ Fork:/[HelloKotlin](https://github.com/ncurilovic/HelloKotlin)
 
 ## [Kotlin - Redy for Production]()
 by Hadi Hariri  
+[Jun 1, 2017](https://www.youtube.com/watch?v=BnTtjywqAX8)  
 
 
 

@@ -484,7 +484,8 @@ Github:[svtk](https://github.com/svtk)/[kotlin-workshop](https://github.com/svtk
 ## [Kotlin by Example](kotlinbyexample.org)
 by Hadi Hariri  
 Github:[kotlinbyexample](https://github.com/kotlinbyexample)/[kotlinbyexample.github.io](https://github.com/kotlinbyexample/kotlinbyexample.github.io)  
-Site://[kotlinbyexample.org](kotlinbyexample.org)
+Site:[kotlinbyexample.org](kotlinbyexample.org)  
+¹ http://hadihariri.com/2017/06/12/kotlin-by-example/
 ```
 /helloWorld             Hello World
 /variables              Variables

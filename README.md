@@ -615,6 +615,10 @@ May 2017, 01:26:23
     Null Safety               1:22:22
 ```
 
+## [Learn Kotlin in Y minutes](https://learnxinyminutes.com/docs/kotlin/)
+
+
+
 # [/Community](https://kotlinlang.org/community/) [/Talks](https://kotlinlang.org/community/talks.html)
 
 

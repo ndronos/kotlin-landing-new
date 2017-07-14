@@ -506,8 +506,9 @@ Fork:/[HelloKotlin](https://github.com/ncurilovic/HelloKotlin)
 
 ## [Kotlin - Redy for Production]()
 by Hadi Hariri  
-[Jun 1, 2017](https://www.youtube.com/watch?v=BnTtjywqAX8)  
-[Oct 6, 2016](https://www.youtube.com/watch?v=R0J_Jl7bKY8)  
+[Jun 1, 2017](https://www.youtube.com/watch?v=BnTtjywqAX8) GOTO 2017  
+[Oct 6, 2016](https://www.youtube.com/watch?v=R0J_Jl7bKY8) GOTO 2016  
+[Mar 13, 2017](https://www.youtube.com/watch?v=-3uiFhI18g8) Devoxx  
 
 
 

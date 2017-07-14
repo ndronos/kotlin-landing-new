@@ -476,6 +476,9 @@ Github:[svtk](https://github.com/svtk)/[kotlin-course](https://github.com/svtk/k
 12  Kotlin inference in the Type
 ```
 
+## [Kotlin Koans](https://kotlinlang.org/docs/tutorials/koans.html)
+
+
 
 ## [Kotlin Workshop]()
 by Svetlana Isakova  

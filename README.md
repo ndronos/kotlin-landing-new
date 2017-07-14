@@ -527,7 +527,51 @@ by Hadi Hariri
 [Dec 9, 2016](https://www.youtube.com/watch?v=HIxEwuJKf7Q)  
 [Mar 17, 2016](https://www.youtube.com/watch?v=83N9hBWCIV4)  
 [Mar 21, 2017](https://www.youtube.com/watch?v=KFF-VZY-X-E)  
-``` 
+```
+Introduction                    0:00
+Current State                   3:32
+Where Can I Use It?             5:08
+How Can I Use It?               6:46
+
+DEMO: Let’s See Some Code       7:49
+    To see some live coding in which I highlight Kotlin’s language features and show how to solve some common development issues,
+           check out the video at the top of the page from 7:49-53:50. A rundown of points I touch on in the demo:
+    Small runtime (~900Kb)
+    Creating a class equivalent to public static void in the Java world
+    Kotlin is a statically-typed language that compiles down to Java, JBM, and JavaScript
+    No new keyword in Kotlin
+    No getters and setters, just properties
+    Top-level functions
+    More than one class in a single file
+    var means mutable, val means immuatable
+    Overriding anything
+    Giving default values to primary constructors
+    Great type inference (don’t need to specify every Double)
+    No need to be explicit with return type
+    Simple functions (fun)
+    Naming parameters, and an unlimited number of them
+    Readability and expressiveness hacks
+    Casting: by default, a Kotlin class is a final
+    No nulls: when you declare a variable, it cannot be null
+    ? and ## for nullable variables
+    Interoperability
+    Kotlin is a functional language
+    Lambdas
+    String functionality
+    Extension methods
+    Infix notation
+    First class support for delegation
+    Algebraic data types in Kotlin: the sealed modifier
+    
+ANKO                            53:51
+Android Extensions              54:07
+Spring Boot                     54:57
+Kobalt                          55:03
+Roadmap                         55:20
+Next Steps                      56:26
+Books                           56:42
+Community                       57:06
+Summary                         57:25
 ```
 
 # /Tutorials

@@ -5,3 +5,7 @@
  */
 // Single-line comment
 
+// "Package" keyword works same way as Java
+package Learn
+
+

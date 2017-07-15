@@ -6,6 +6,7 @@
 // Single-line comment
 
 // "Package" keyword works same way as Java
+//  Package directive doesn't match file location // Move file to ... >
 package Learn
 
 

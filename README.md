@@ -586,7 +586,7 @@ Youtube:[playlist](https://www.youtube.com/playlist?list=PLQ176FUIyIUZDaQr1pEyix
 02:23 [Getting Started with Kotlin in 2 minutes](https://youtube.com/watch?v=viiDaLpPfN4)   •  
 
 
-## [Kotlin Tutorial](https://www.youtube.com/watch?v=H_oGi8uuDpA)
+## [Learn Kotlin in One Video](https://www.youtube.com/watch?v=H_oGi8uuDpA) Kotlin Tutorial
 Youtube/[DerekBanas](https://www.youtube.com/derekbanas)  
 Code:[NewThinkTank](http://www.newthinktank.com/)/[kotlin-tutorial](http://www.newthinktank.com/2017/05/kotlin-tutorial/)  
 May 2017, 01:26:23  

@@ -9,4 +9,8 @@
 //  Package directive doesn't match file location // Move file to ... >
 package Learn
 
+fun main(args: Array<String>) {
+    println("Hello, World!")        // "Hello" classic
+}
+
 

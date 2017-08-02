@@ -55,6 +55,11 @@ code \t zzz ...
     println(fooRawString)
 
 
+// Strings: Template Expressions    // starts with dollar sign $
+
+    val fooTemplateString = "$fooString has ${fooString.length} characters"
+    println(fooTemplateString)
+
 
 }
 

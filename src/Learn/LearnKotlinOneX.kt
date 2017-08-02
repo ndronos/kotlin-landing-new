@@ -45,6 +45,17 @@ fun main(args: Array<String>) {
     val bazString = "Add a tab\tNo problem!"
     println(bazString)
 
+
+// Raw String                       // delimited by triple quote """
+                                    // can contain newlines and any other characters
+    val fooRawString = """
+text \t [] () {} \n
+code \t zzz ...
+"""
+    println(fooRawString)
+
+
+
 }
 
 

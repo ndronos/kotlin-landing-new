@@ -32,6 +32,19 @@ fun main(args: Array<String>) {
 
     println(foo)
 
+
+// Datatypes: String                // represented in similar way as in Java
+// Scaping done with backslash "\"
+
+    val fooString = "My String is Here!"
+    println(fooString)
+
+    val barString = "New line?\nNo problem!"
+    println(barString)
+
+    val bazString = "Add a tab\tNo problem!"
+    println(bazString)
+
 }
 
 

@@ -13,6 +13,16 @@ package Learn
 //  The function is passed a "Array" containing any command-line arguments "args"
 fun main(args: Array<String>) {
     println("Hello, World!")        // "Hello" classic
+
+
+    val fooVal = 1                  // cannot reassign to something else
+
+    var fooVar = 10                 // can be reassined
+    fooVar = 20
+
+    println(fooVal)
+    println(fooVar)
+
 }
 
 

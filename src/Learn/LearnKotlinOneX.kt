@@ -23,6 +23,15 @@ fun main(args: Array<String>) {
     println(fooVal)
     println(fooVar)
 
+
+//  Type Inference
+//  In most cases, Kotlin can determine what type the variable is,
+//  so we don't have to explictly specify it every time.
+
+    val foo: Int = 7                //  Explicitly declared
+
+    println(foo)
+
 }
 
 

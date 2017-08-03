@@ -64,6 +64,8 @@ code \t zzz ...
 
     var fooNullable: String? = "abc"    // nullable by appending a ? to its type
     println(fooNullable?.length)        // access by using the ? operator
+    fooNullable = null
+    println(fooNullable?.length ?: -1)  // ?: operator specify alternative value to use
 
 
 }

@@ -128,6 +128,12 @@ code \t zzz ...
     println(notZero(1))
     println(notZero(0))
 
+// Lambda Expression: if has only one parameter then its declaration can be ommited (along with the ->)
+
+    val notPositive = not {it > 0}
+    println(notPositive(1))
+    println(notPositive(-1))
+
 
 }
 

@@ -68,6 +68,17 @@ code \t zzz ...
     println(fooNullable?.length ?: -1)  // ?: operator specify alternative value to use
 
 
+// Functions    // declared using "fun" keyword
+                // arguments specified in brackets after function name
+                // arguments optionally can have a default value
+                // The function return type, if required, is specified after the arguments
+
+    fun hello(name: String = "world"): String {
+        return "Hello, $name!"
+    }
+
+    println(hello())
+
 }
 
 

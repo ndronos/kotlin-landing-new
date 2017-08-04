@@ -135,6 +135,19 @@ code \t zzz ...
     println(notPositive(-1))
 
 
+    for (i in 0..4) {
+        print("${i}: ")
+        print("${notOdd(i)} ")
+        print("${notEven(i)} ")
+        print("${notZero(i)} ")
+        print("${notPositive(i)} ")
+        print("\n")
+    }
+
+
+
+
+
 }
 
 

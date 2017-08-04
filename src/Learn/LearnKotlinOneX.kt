@@ -113,6 +113,7 @@ code \t zzz ...
     }
 
 // Named functions can be specified as arguments using the :: operator
+
     val notOdd = not(::odd)
     println(notOdd(6))
     println(notOdd(7))
@@ -120,6 +121,12 @@ code \t zzz ...
     val notEven = not(::even)
     println(notEven(6))
     println(notEven(7))
+
+// Lambda Expressions can be specified as arguments
+
+    val notZero = not {n -> n == 0}
+    println(notZero(1))
+    println(notZero(0))
 
 
 }

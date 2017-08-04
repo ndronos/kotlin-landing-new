@@ -82,6 +82,17 @@ code \t zzz ...
     println(hello("foo"))
     println(hello(name = "bar"))
 
+
+// Functions    // "vararg" keyword allow variable number of arguments passed
+
+    fun varargExample(vararg names: Int) {
+        println("Argument has ${names.size} elements")
+    }
+
+    varargExample()
+    varargExample(1)
+    varargExample(1, 2, 3)
+
 }
 
 

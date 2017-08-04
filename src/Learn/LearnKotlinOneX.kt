@@ -112,6 +112,15 @@ code \t zzz ...
         return {n -> !f.invoke(n)}
     }
 
+// Named functions can be specified as arguments using the :: operator
+    val notOdd = not(::odd)
+    println(notOdd(6))
+    println(notOdd(7))
+
+    val notEven = not(::even)
+    println(notEven(6))
+    println(notEven(7))
+
 
 }
 

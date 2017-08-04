@@ -105,6 +105,14 @@ code \t zzz ...
     println(even(6))
     println(even(7))
 
+
+// Functions can take functions as arguments and return functions
+
+    fun not(f: (Int) -> Boolean): (Int) -> Boolean {
+        return {n -> !f.invoke(n)}
+    }
+
+
 }
 
 

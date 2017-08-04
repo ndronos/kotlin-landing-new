@@ -60,7 +60,7 @@ code \t zzz ...
     val fooTemplateString = "$fooString has ${fooString.length} characters"
     println(fooTemplateString)
 
-// Nullable
+// Nullable     // for a variable to hold null it must be explicitly specified as nullable
 
     var fooNullable: String? = "abc"    // nullable by appending a ? to its type
     println(fooNullable?.length)        // access by using the ? operator

@@ -145,7 +145,18 @@ code \t zzz ...
     }
 
 
+// Classes      // "class" keyword is used to declare classes
 
+    class ExampleClass(val x: Int) {
+
+        fun memberFunction(y: Int): Int {
+            return x + y
+        }
+
+        infix fun infixMemberFunction(y: Int): Int {
+            return x * y
+        }
+    }
 
 
 }

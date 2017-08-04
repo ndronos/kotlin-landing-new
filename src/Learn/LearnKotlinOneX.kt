@@ -79,6 +79,9 @@ code \t zzz ...
 
     println(hello())
 
+    println(hello("foo"))
+    println(hello(name = "bar"))
+
 }
 
 

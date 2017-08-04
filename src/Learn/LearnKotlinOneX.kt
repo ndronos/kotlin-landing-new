@@ -93,6 +93,15 @@ code \t zzz ...
     varargExample(1)
     varargExample(1, 2, 3)
 
+
+// Functions    // single expression curly brackets can be omitted
+                // the body is specified after a = symbol
+
+    fun odd(x: Int): Boolean = x % 2 == 1
+    println(odd(6))
+    println(odd(7))
+
+
 }
 
 

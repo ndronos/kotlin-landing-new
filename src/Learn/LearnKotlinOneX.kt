@@ -101,6 +101,9 @@ code \t zzz ...
     println(odd(6))
     println(odd(7))
 
+    fun even(x: Int) = x % 2 == 0           // type inferred
+    println(even(6))
+    println(even(7))
 
 }
 

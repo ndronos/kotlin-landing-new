@@ -243,6 +243,24 @@ code \t zzz ...
     val x = fooSequence.take(10).toList()
     println(x)
 
+// Sequences    // using a sequence to generate Fibonacci numbers
+
+    fun fibonacciSequence(): Sequence<Long> {
+        var a = 0L
+        var b = 1L
+
+        fun next(): Long {
+            val result = a + b
+            a = b
+            b = result
+            return a
+        }
+
+        return generateSequence (::next)
+    }
+
+    val y = fibonacciSequence().take(10).toList()
+    println(y)
 
 }
 

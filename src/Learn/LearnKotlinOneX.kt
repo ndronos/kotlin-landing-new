@@ -284,6 +284,13 @@ code \t zzz ...
         ctr++
     }
 
+// Loops "do while"
+
+    do {
+        println(ctr)
+        ctr++
+    } while (ctr < 10)
+
 
 }
 

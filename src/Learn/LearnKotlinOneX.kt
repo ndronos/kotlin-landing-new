@@ -193,6 +193,11 @@ code \t zzz ...
         println("$a $b $c")
     }
 
+// Map.entry is destructable as well
+    val mapData = mapOf("a" to 1, "b" to 2)
+    for ((key, value) in mapData) {
+        println("$key -> $value")
+    }
 
 }
 

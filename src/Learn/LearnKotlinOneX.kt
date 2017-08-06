@@ -347,5 +347,21 @@ code \t zzz ...
     println(smartCastExample(0))
     println(smartCastExample(true))
 
+// Type Casting         // "when" block
+
+    fun smartCastWhenExample(x: Any) = when (x) {
+        is Boolean -> x
+        is Int -> x > 0
+        is String -> x.isNotEmpty()
+        else -> false
+    }
+
+    println(smartCastWhenExample("Hello, world!"))
+    println(smartCastWhenExample(""))
+    println(smartCastWhenExample(5))
+    println(smartCastWhenExample(0))
+    println(smartCastWhenExample(true))
+
+
 }
 

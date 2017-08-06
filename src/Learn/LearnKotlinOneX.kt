@@ -167,6 +167,11 @@ code \t zzz ...
 
     println(fooExampleClass.memberFunction(4))      // x:7 + y:4
 
+// Classes      // Infix function: marked with "infix" keyword
+                // can be called using infix notation
+
+    println(fooExampleClass infixMemberFunction 4)      // x:7 * y:4
+
 }
 
 

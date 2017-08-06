@@ -26,6 +26,11 @@ fun main(args: Array<String>) {
     println("Biggest Int: " + bigInt)
     println("Smallest Int " + smallInt)
 
+    var bigLong: Long = Long.MAX_VALUE
+    var smallLong: Long = Long.MIN_VALUE
+
+    println("Biggest Long: " + bigLong)
+    println("Smallest Long: " + smallLong)
 
 
 

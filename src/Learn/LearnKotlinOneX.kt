@@ -262,7 +262,6 @@ code \t zzz ...
     val y = fibonacciSequence().take(10).toList()
     println(y)
 
-
 // High-order Functions     // for working with collection
 
     val z = (1..9)  .map {it * 3}
@@ -270,6 +269,12 @@ code \t zzz ...
                     .groupBy {it % 2 == 0}
                     .mapKeys {if (it.key) "even" else "odd" }
     println(z)
+
+// Loops "for"      // can be used with anything that provides an iterator
+
+    for (c in "hello") {
+        println(c)
+    }
 
 
 

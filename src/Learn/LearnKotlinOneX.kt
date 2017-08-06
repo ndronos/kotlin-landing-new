@@ -375,6 +375,10 @@ code \t zzz ...
 // Enum Class           // Enum Class, outside main()
     println(EnumExample.A)
 
+// Objects              // Objects, outside main()
+    println(ObjectExample.hello())
+// Objects: usage
+    println(useObject())
 }
 
 
@@ -386,8 +390,22 @@ enum class EnumExample {
 }
 
 
+// Objects              // "object" keyword create singleton objects
+                        // cannot instantiate it but can refer to its
+                        // unique instance by its name
+                        // Similar to Scala singleton objects
+object ObjectExample {
+    fun hello(): String {
+        return "hello"
+    }
+}
 
 
+// Objects              // usage: use object name as is
 
+fun useObject() {
+    ObjectExample.hello()
+    val someRef: Any = ObjectExample    // use object name as is
+}
 
 

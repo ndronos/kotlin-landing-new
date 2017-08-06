@@ -184,6 +184,10 @@ code \t zzz ...
     val fooCopy = fooData.copy(y = 100)
     println(fooCopy)
 
+// Objects can be destructured into multipe variables
+    val (a, b, c) = fooCopy
+    println("$a $b $c")
+
 
 }
 

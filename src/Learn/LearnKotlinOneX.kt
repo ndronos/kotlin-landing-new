@@ -308,6 +308,15 @@ code \t zzz ...
         else -> println("else block")
     }
 
+// Conditionals: when   // can be used with an argument
+
+    when (i) {
+        0, 21 -> println("0 or 21")
+        in 1..20 -> println("in the range 1 to 20")
+        else -> println("none of the above")
+    }
+
+
 
 }
 

@@ -236,6 +236,13 @@ code \t zzz ...
     val fooMap = mapOf("a" to 8, "b" to 7, "c" to 9)
     println(fooMap["a"])        // Maps values accessed by their key
 
+// Sequences    // "generateSequence" function creates a sequence
+                // Sequences represent lazily-evaluated collections
+
+    val fooSequence = generateSequence(1, {it + 1})
+    val x = fooSequence.take(10).toList()
+    println(x)
+
 
 }
 

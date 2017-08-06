@@ -50,7 +50,10 @@ fun main(args: Array<String>) {
 
     println("Double Sum: " + (dblNum1 + dblNum2))
 
-
+    /* We also have the following
+    Short   16 bytes
+    Byte     8 bytes
+    */
 
 
 }

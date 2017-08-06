@@ -188,6 +188,11 @@ code \t zzz ...
     val (a, b, c) = fooCopy
     println("$a $b $c")
 
+// destructuring in "for" loop
+    for ((a, b, c) in listOf(fooData)) {
+        println("$a $b $c")
+    }
+
 
 }
 

@@ -231,6 +231,11 @@ code \t zzz ...
     println(fooSet.contains("a"))
     println(fooSet.contains("z"))
 
+// Maps         // "mapOf" function creates a map
+
+    val fooMap = mapOf("a" to 8, "b" to 7, "c" to 9)
+    println(fooMap["a"])        // Maps values accessed by their key
+
 
 }
 

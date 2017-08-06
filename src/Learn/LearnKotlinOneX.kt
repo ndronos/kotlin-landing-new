@@ -298,6 +298,15 @@ code \t zzz ...
     val message = if (num % 2 == 0) "even" else "odd"
     println("$num is $message")
 
+// Conditionals: when   // alternative to "if-else if" chains
+
+    val i = 10
+    when {
+        i < 7 -> println("first block")
+        fooString.startsWith("hello") -> println("second block")
+
+        else -> println("else block")
+    }
 
 
 }

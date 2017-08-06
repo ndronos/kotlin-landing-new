@@ -44,6 +44,13 @@ fun main(args: Array<String>) {
     println("Biggest Float: " + bigFloat)
     println("Smallest Float: " + smallFloat)
 
+    // Doubles are normally precise to 15 digits
+    var dblNum1: Double = 1.11111111111111111111
+    var dblNum2: Double = 1.11111111111111111111
+
+    println("Double Sum: " + (dblNum1 + dblNum2))
+
+
 
 
 }

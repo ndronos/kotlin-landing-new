@@ -316,8 +316,16 @@ code \t zzz ...
         else -> println("none of the above")
     }
 
+// Conditionals: when   // used as a function that returns a value
+
+    var result = when (i) {
+        0, 21 -> "0 or 21"
+        in 1..20 -> "in the range 1 to 20"
+        else -> "none of the above"
+    }
+    println(result)
+
 
 
 }
-
 

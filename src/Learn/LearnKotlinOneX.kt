@@ -172,6 +172,14 @@ code \t zzz ...
 
     println(fooExampleClass infixMemberFunction 4)      // x:7 * y:4
 
+// Data Classes // Concise way to create classes that hold just data
+                // Automatically generated methods:
+                // hashCode, equals, toString
+
+    data class DataClassExample (val x: Int, val y: Int, val z: Int)
+    val fooData = DataClassExample(1, 2, 4)
+    print(fooData)
+
 }
 
 

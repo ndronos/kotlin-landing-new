@@ -199,6 +199,15 @@ code \t zzz ...
         println("$key -> $value")
     }
 
+// Data Classes // "with" function
+    data class MutableDataClassExample (var x: Int, var y: Int, var z: Int)
+    val fooMutableData = MutableDataClassExample(7, 4, 9)
+    with (fooMutableData) {
+        x -= 2
+        y += 2
+        z--
+    }
+    println(fooMutableData)
 }
 
 

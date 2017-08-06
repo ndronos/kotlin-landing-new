@@ -59,6 +59,14 @@ fun main(args: Array<String>) {
 
     if (true is Boolean) println("true is Boolean")
 
+    // Char: characters are single quoted characters
+
+    var letterGrade: Char = 'A'
+
+    println("A is a Char: " + (letterGrade is Char))
+
+
+
 }
 
 

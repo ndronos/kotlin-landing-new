@@ -158,6 +158,11 @@ code \t zzz ...
         }
     }
 
+// Classes      // Constructor: create new instance
+                // Kotlin does not have a "new" keyword
+
+    val fooExampleClass = ExampleClass(7)
+
 
 }
 

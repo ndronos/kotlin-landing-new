@@ -276,6 +276,13 @@ code \t zzz ...
         println(c)
     }
 
+// Loops "while"
+
+    var ctr = 0
+    while (ctr < 5) {
+        println(ctr)
+        ctr++
+    }
 
 
 }

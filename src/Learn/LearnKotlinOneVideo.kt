@@ -38,6 +38,32 @@ fun main(args: Array<String>) {
     println("Biggest Double: " + bigDouble)
     println("Smallest Double: " + smallDouble)
 
+    var bigFloat: Float = Float.MAX_VALUE
+    var smallFloat: Float = Float.MIN_VALUE
+
+    println("Biggest Float: " + bigFloat)
+    println("Smallest Float: " + smallFloat)
+
+
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

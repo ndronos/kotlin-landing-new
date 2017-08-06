@@ -208,6 +208,17 @@ code \t zzz ...
         z--
     }
     println(fooMutableData)
+
+// Data Classes // "listOf" function creates a list
+                // will be immutable - elements cannot be added or removed
+
+    val fooList = listOf("a", "b", "c")
+    println(fooList.size)
+    println(fooList.first())
+    println(fooList.last())
+    println(fooList[1])         // elements can be accessed by their index
+
+
 }
 
 

@@ -55,6 +55,9 @@ fun main(args: Array<String>) {
     Byte     8 bytes
     */
 
+    // Booleans are either true or false
+
+    if (true is Boolean) println("true is Boolean")
 
 }
 

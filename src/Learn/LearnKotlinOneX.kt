@@ -291,6 +291,14 @@ code \t zzz ...
         ctr++
     } while (ctr < 10)
 
+// Conditionals: if     // can be used as an expression that returns a value
+                        // ternary ?: operator NOT needed in Kotlin
+
+    val num = 5
+    val message = if (num % 2 == 0) "even" else "odd"
+    println("$num is $message")
+
+
 
 }
 

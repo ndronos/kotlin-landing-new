@@ -225,6 +225,12 @@ code \t zzz ...
     println(fooMutableList.size)
     println(fooMutableList.last())
 
+// Sets         // "setOf" function creates a set
+
+    val fooSet = setOf("a", "b", "c")
+    println(fooSet.contains("a"))
+    println(fooSet.contains("z"))
+
 
 }
 

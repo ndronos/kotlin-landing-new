@@ -163,6 +163,9 @@ code \t zzz ...
 
     val fooExampleClass = ExampleClass(7)
 
+// Classes      // Member functions called using dot notation
+
+    println(fooExampleClass.memberFunction(4))      // x:7 + y:4
 
 }
 

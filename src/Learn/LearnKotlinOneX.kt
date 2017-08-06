@@ -362,6 +362,25 @@ code \t zzz ...
     println(smartCastWhenExample(0))
     println(smartCastWhenExample(true))
 
+// Extensions           // a way to add new functionality to a class
+                        // similar to C# extension methods
+
+    fun String.remove(c: Char): String {
+        return this.filter {it != c}
+    }
+
+    println("Hello, world".remove('l'))
+    println("Hello, world".remove('o'))
+
+
 
 }
+
+
+
+
+
+
+
+
 

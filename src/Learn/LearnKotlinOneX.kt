@@ -178,7 +178,12 @@ code \t zzz ...
 
     data class DataClassExample (val x: Int, val y: Int, val z: Int)
     val fooData = DataClassExample(1, 2, 4)
-    print(fooData)
+    println(fooData)
+
+// Data Classes // have a "copy" function
+    val fooCopy = fooData.copy(y = 100)
+    println(fooCopy)
+
 
 }
 

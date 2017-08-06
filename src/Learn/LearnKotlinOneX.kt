@@ -218,6 +218,13 @@ code \t zzz ...
     println(fooList.last())
     println(fooList[1])         // elements can be accessed by their index
 
+// Data Classes // "mutableListOf" function create mutable list
+
+    val fooMutableList = mutableListOf("a", "b", "c")
+    fooMutableList.add("d")
+    println(fooMutableList.size)
+    println(fooMutableList.last())
+
 
 }
 

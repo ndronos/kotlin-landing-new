@@ -3,7 +3,8 @@
 
 # /src
 
-[LearnKotlinOneX](/srcLearn/LearnKotlinOneX.kt)
+[LearnKotlinYMinutes](/src/Learn/LearnKotlinYMinutes.kt)  
+
 
 ---
 

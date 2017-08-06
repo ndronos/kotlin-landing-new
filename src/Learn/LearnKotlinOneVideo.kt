@@ -66,6 +66,14 @@ fun main(args: Array<String>) {
     println("A is a Char: " + (letterGrade is Char))
 
 
+    // ----- Casting -----
+    // You can cast from one type to another using
+    // toInt, toShort, toLong, toFloat, toDouble,
+    // toChar, toString
+
+    println("3.14 to Int: " + (3.14.toInt()))
+    println("A to Int: " + (letterGrade.toInt()))
+    println("65 to Char: " + (65.toChar()))
 
 }
 

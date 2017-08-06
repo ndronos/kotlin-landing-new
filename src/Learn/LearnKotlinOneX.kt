@@ -262,6 +262,17 @@ code \t zzz ...
     val y = fibonacciSequence().take(10).toList()
     println(y)
 
+
+// High-order Functions     // for working with collection
+
+    val z = (1..9)  .map {it * 3}
+                    .filter {it < 20}
+                    .groupBy {it % 2 == 0}
+                    .mapKeys {if (it.key) "even" else "odd" }
+    println(z)
+
+
+
 }
 
 

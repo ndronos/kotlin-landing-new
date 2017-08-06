@@ -372,11 +372,18 @@ code \t zzz ...
     println("Hello, world".remove('l'))
     println("Hello, world".remove('o'))
 
-
+// Enum Class           // Enum Class, outside main()
+    println(EnumExample.A)
 
 }
 
 
+// Enum Class           //
+// Similar to Java enum types
+
+enum class EnumExample {
+    A, B, C
+}
 
 
 

@@ -325,7 +325,27 @@ code \t zzz ...
     }
     println(result)
 
+// Type Casting         // 'is" operator
+                        // if an object passes a type check then
+                        // it can be used as that type without expliciting casting it
+    fun smartCastExample(x: Any) : Boolean {
 
+        if (x is Boolean) {
+            return x                    // x is automatically cast to Boolean
+        } else if (x is Int) {
+            return x > 0                // cast to Int
+        } else if (x is String) {
+            return x.isNotEmpty()       // cast to String
+        } else {
+            return false
+        }
+    }
+
+    println(smartCastExample("Hello, world!"))
+    println(smartCastExample(""))
+    println(smartCastExample(5))
+    println(smartCastExample(0))
+    println(smartCastExample(true))
 
 }
 

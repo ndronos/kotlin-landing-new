@@ -201,6 +201,8 @@ fun main(args: Array<String>) {
     val rng3 = oneTo10.step(3)
     println(rng3)
 
+    // Cycle through a range and print
+    for(x in rng3) println("rng3: $x")
 
 
 

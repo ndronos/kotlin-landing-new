@@ -81,6 +81,11 @@ fun main(args: Array<String>) {
 
     val myName = "Kotlin"
 
+    val longStr = """This is a
+    long string"""
+
+    println(myName)
+    println(longStr)
 
 
 

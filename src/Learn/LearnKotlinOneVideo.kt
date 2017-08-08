@@ -250,7 +250,9 @@ fun main(args: Array<String>) {
     // You can use loops to cycle through arrays ranges
     // or anything else that implements the iterator function
 
-
+    for (x in 1..10) {
+        println("Loop: $x")
+    }
 
 
 

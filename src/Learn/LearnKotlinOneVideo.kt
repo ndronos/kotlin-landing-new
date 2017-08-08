@@ -261,6 +261,15 @@ fun main(args: Array<String>) {
     val magicNum = rand.nextInt(50) + 1
     println(magicNum)
 
+    // "while" loops while a condition is true
+    var guess = 0
+
+    while (magicNum != guess) {
+        guess += 1
+    }
+
+    println("Magic num is $magicNum and you guessed $guess")
+
 
 }
 

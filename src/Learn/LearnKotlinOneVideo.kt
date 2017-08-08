@@ -141,6 +141,10 @@ fun main(args: Array<String>) {
     println(myArray[1])
     println(myArray[2])
 
+    // change the value
+    myArray[1] = 3.14
+    println(myArray[1])
+
 
 }
 

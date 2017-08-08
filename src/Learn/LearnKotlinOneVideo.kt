@@ -189,6 +189,10 @@ fun main(args: Array<String>) {
     // Use "in" to search a Range
     println("R in alpha: ${"R" in alpha}")
 
+    // Create ranges that decrement
+    val tenTo1 = 10.downTo(1)
+    println(tenTo1)
+
     // Create array up to a value
     val twoTo20 = 2.rangeTo(20)
     println(twoTo20)

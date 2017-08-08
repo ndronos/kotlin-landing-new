@@ -293,7 +293,10 @@ fun main(args: Array<String>) {
         println("Mult 3: ${arr3[i]}")
     }
 
-
+    // Output indexes
+    for ( (index, value) in arr3.withIndex() ) {
+        println("Index: $index & Value: $value")
+    }
 
 
 

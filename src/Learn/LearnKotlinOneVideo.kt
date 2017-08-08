@@ -119,7 +119,8 @@ fun main(args: Array<String>) {
     // 0: Equal, Negative if less, Positive if greater
     println("Compare A to B: ${"A".compareTo("B")}")
 
-    
+    // Get character at an index
+    println("2nd Index: ${str1.get(2)}")
 
 }
 

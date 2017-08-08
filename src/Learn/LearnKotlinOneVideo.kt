@@ -151,6 +151,12 @@ fun main(args: Array<String>) {
     // Is element in the array
     println("Doug in Array: ${myArray.contains("Doug")}")
 
+    // Get first elements in array as an array
+    var partArray = myArray.copyOfRange(0,1)
+
+
+
+
 
 }
 

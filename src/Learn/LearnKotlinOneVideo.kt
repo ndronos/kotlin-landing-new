@@ -145,6 +145,11 @@ fun main(args: Array<String>) {
     myArray[1] = 3.14
     println(myArray[1])
 
+    // elements in array
+    println("Array Length: ${myArray.size}")
+
+
+
 
 }
 

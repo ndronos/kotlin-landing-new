@@ -130,6 +130,11 @@ fun main(args: Array<String>) {
     println("Contains random: ${str1.contains("Random")}")
 
 
+    // ----- Arrays -----
+    // can store multiple types in arrays
+    var myArray = arrayOf(1, 1.23, "Doug")
+
+
 
 
 }

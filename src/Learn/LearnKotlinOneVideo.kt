@@ -148,7 +148,8 @@ fun main(args: Array<String>) {
     // elements in array
     println("Array Length: ${myArray.size}")
 
-
+    // Is element in the array
+    println("Doug in Array: ${myArray.contains("Doug")}")
 
 
 }

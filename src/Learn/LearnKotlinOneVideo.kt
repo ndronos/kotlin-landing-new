@@ -181,11 +181,13 @@ fun main(args: Array<String>) {
     // Define ranges by providing a starting and ending value
 
     val oneTo10 = 1..10
-    val alpha = "A..Z"
+    val alpha = "A".."Z"
 
     println(oneTo10)
     println(alpha)
 
+    // Use "in" to search a Range
+    println("R in alpha: ${"R" in alpha}")
 
 
 }

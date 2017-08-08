@@ -107,7 +107,16 @@ fun main(args: Array<String>) {
     println("1 + 2 = ${1 + 2}")
 
     // get length
-    println("String length of '$longStr' is ${longStr.length}")
+    println("String length of '$longStr'0 is ${longStr.length}")
+
+    var str1 = "A Random String"
+    var str2 = "a random string"
+
+    // Compare strings
+    println("Strings Equal: ${str1.equals(str2)}")
+
+
+
 }
 
 

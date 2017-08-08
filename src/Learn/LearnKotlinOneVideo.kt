@@ -208,6 +208,11 @@ fun main(args: Array<String>) {
     for(x in tenTo1.reversed()) println("Reverse: $x")
 
 
+    // ----- Conditionals -----
+    // Conditional Operators: >, <, >=, <=, ==, !=
+    // Logical Operators: &&, ||, !
+
+
 
 
 }

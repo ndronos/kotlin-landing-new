@@ -134,7 +134,12 @@ fun main(args: Array<String>) {
     // can store multiple types in arrays
     var myArray = arrayOf(1, 1.23, "Doug")
 
+    println(myArray)
 
+    // access values using indexes starting at 0
+    println(myArray[0])
+    println(myArray[1])
+    println(myArray[2])
 
 
 }

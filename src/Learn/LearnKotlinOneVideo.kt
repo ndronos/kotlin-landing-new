@@ -75,6 +75,15 @@ fun main(args: Array<String>) {
     println("A to Int: " + (letterGrade.toInt()))
     println("65 to Char: " + (65.toChar()))
 
+
+    // ----- Strings -----
+    // Strings are double quoted series of characters
+
+    val myName = "Kotlin"
+
+
+
+
 }
 
 

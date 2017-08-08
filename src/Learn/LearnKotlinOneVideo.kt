@@ -169,7 +169,11 @@ fun main(args: Array<String>) {
     println(sqArray[3])
     println(sqArray[4])
 
-
+    // There are type specific arrays
+    var arr2: Array<Int> = arrayOf(1, 2, 3)
+    println(arr2[0])
+    println(arr2[1])
+    println(arr2[2])
 
 
 

@@ -245,6 +245,15 @@ fun main(args: Array<String>) {
     }
 
 
+    // ----- Looping -----
+    // if, when, while
+    // You can use loops to cycle through arrays ranges
+    // or anything else that implements the iterator function
+
+
+
+
+
 
 
 

@@ -157,7 +157,8 @@ fun main(args: Array<String>) {
     // Get the first element
     println("First: ${str1.first()}")
 
-
+    // Get index of value
+    println("Doug Index: ${str1.indexOf("Doug")}")
 
 
 

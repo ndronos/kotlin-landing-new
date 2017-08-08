@@ -95,6 +95,13 @@ fun main(args: Array<String>) {
 
     println(fName)
 
+    // you can combine strings
+    var fullName = fName + " " + lName
+
+    println(fullName)
+
+
+
 }
 
 

@@ -106,6 +106,8 @@ fun main(args: Array<String>) {
     // you can perform other operations with {}
     println("1 + 2 = ${1 + 2}")
 
+    // get length
+    println("String length of '$longStr' is ${longStr.length}")
 }
 
 

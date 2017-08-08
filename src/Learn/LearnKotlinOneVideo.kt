@@ -197,6 +197,10 @@ fun main(args: Array<String>) {
     val twoTo20 = 2.rangeTo(20)
     println(twoTo20)
 
+    // Step through an array while adding 3
+    val rng3 = oneTo10.step(3)
+    println(rng3)
+
 
 
 

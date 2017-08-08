@@ -177,6 +177,14 @@ fun main(args: Array<String>) {
 
 
 
+    // ----- Ranges -----
+    // Define ranges by providing a starting and ending value
+
+    val oneTo10 = 1..10
+    val alpha = "A..Z"
+
+
+
 }
 
 

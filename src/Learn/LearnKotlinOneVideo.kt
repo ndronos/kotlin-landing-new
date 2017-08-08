@@ -115,7 +115,11 @@ fun main(args: Array<String>) {
     // Compare strings
     println("Strings Equal: ${str1.equals(str2)}")
 
+    // Compare strings
+    // 0: Equal, Negative if less, Positive if greater
+    println("Compare A to B: ${"A".compareTo("B")}")
 
+    
 
 }
 

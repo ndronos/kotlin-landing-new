@@ -100,7 +100,11 @@ fun main(args: Array<String>) {
 
     println(fullName)
 
+    // you can use string interpolation
+    println("Name: $fullName")
 
+    // you can perform other operations with {}
+    println("1 + 2 = ${1 + 2}")
 
 }
 

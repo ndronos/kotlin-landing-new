@@ -270,7 +270,19 @@ fun main(args: Array<String>) {
 
     println("Magic num is $magicNum and you guessed $guess")
 
+    for (x in 1..20) {
 
+        if (x % 2 == 0) {
+            // "continue" jumps back to the top of the loop
+            continue
+        }
+
+        println("Odd: $x")
+
+        //"break" jumps out of the loop and stops looping
+        if (x == 15) break
+
+    }
 }
 
 

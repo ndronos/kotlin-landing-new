@@ -122,6 +122,11 @@ fun main(args: Array<String>) {
     // Get character at an index
     println("2nd Index: ${str1.get(2)}")
 
+    // Get a substring from start up to but not including end
+    println("Index 2-7: ${str1.subSequence(2,8)}")
+
+
+
 }
 
 

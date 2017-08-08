@@ -225,6 +225,28 @@ fun main(args: Array<String>) {
         println("Go to College")
     }
 
+    // When works like switch in other languages
+    when (age) {
+
+        // Match a list
+        0, 1, 2, 3, 4 -> println("Go to Preschool")
+
+        // Match a specific valu
+        5 -> println("Go to Kindergarten")
+
+        // Match a range
+        in 6..17 -> {
+            val grade = age -5
+            println("Go to Grade $grade")
+        }
+
+        // Default
+        else -> println("Go to College")
+    }
+
+
+
+
 
 }
 

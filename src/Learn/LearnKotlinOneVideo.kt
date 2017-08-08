@@ -159,6 +159,17 @@ fun main(args: Array<String>) {
 
     // Get index of value
     println("Doug Index: ${str1.indexOf("Doug")}")
+    println("Doug Index: ${str1.indexOf("Random")}")
+
+    // Create an array of squares
+    var sqArray = Array(5, {x -> x * x})
+    println(sqArray[0])
+    println(sqArray[1])
+    println(sqArray[2])
+    println(sqArray[3])
+    println(sqArray[4])
+
+
 
 
 

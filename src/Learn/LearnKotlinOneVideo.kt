@@ -125,6 +125,11 @@ fun main(args: Array<String>) {
     // Get a substring from start up to but not including end
     println("Index 2-7: ${str1.subSequence(2,8)}")
 
+    // Checks if a string contains another
+    println("Contains random: ${str1.contains("random")}")
+    println("Contains random: ${str1.contains("Random")}")
+
+
 
 
 }

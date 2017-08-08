@@ -87,7 +87,13 @@ fun main(args: Array<String>) {
     println(myName)
     println(longStr)
 
+    var fName = "JetBrains"
+    var lName = "IDEA"
 
+    // you can change values
+    fName = "IntelliJ"
+
+    println(fName)
 
 }
 

@@ -154,6 +154,9 @@ fun main(args: Array<String>) {
     // Get first elements in array as an array
     var partArray = myArray.copyOfRange(0,1)
 
+    // Get the first element
+    println("First: ${str1.first()}")
+
 
 
 

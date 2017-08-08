@@ -183,6 +183,9 @@ fun main(args: Array<String>) {
     val oneTo10 = 1..10
     val alpha = "A..Z"
 
+    println(oneTo10)
+    println(alpha)
+
 
 
 }

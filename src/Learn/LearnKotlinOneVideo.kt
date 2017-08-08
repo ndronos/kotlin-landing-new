@@ -204,6 +204,8 @@ fun main(args: Array<String>) {
     // Cycle through a range and print
     for(x in rng3) println("rng3: $x")
 
+    // Reverse a range
+    for(x in tenTo1.reversed()) println("Reverse: $x")
 
 
 

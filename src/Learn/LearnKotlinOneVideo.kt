@@ -5,6 +5,8 @@
 
 package Learn
 
+import java.util.Random
+
 fun main(args: Array<String>) {
     println("Hello, world!")
 
@@ -254,9 +256,10 @@ fun main(args: Array<String>) {
         println("Loop: $x")
     }
 
-
-
-
+    // Generate a random number from 1 to 50
+    val rand = Random()                     //  import java.util.Random
+    val magicNum = rand.nextInt(50) + 1
+    println(magicNum)
 
 
 }

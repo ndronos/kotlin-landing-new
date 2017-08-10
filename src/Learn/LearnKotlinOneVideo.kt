@@ -456,7 +456,8 @@ fun main(args: Array<String>) {
     list1[3] = 10
     println(list1)
 
-
+    //
+    list1.forEach { n -> println("Mutable List: $n") }
 
 
 

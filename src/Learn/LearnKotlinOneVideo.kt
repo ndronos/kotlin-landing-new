@@ -314,6 +314,9 @@ fun main(args: Array<String>) {
     // You can use named parameters
     println("5 - 4 = ${subtract(num1 = 5, num2 = 4)} ")
 
+    // Use "Unit" if you return nothing
+    fun sayHello(name: String) : Unit = println("Hello $name")
+    sayHello("Kotlin")
 
 
 

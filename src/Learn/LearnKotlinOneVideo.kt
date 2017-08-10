@@ -325,6 +325,10 @@ fun main(args: Array<String>) {
     // Send a variable number of parameters
 //  println("Sum: ${getSum(1,2,3,4,5)}") // Unresolved reference
 
+    // We can define function literals
+    val multiply = {num1: Int, num2: Int -> num1 * num2}
+    println("5 * 3 = ${multiply(5,3)}")
+
 
 
 

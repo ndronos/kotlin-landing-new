@@ -346,6 +346,11 @@ fun main(args: Array<String>) {
     val evenList = numList.filter { it % 2 == 0 }
     evenList.forEach { n -> println(n) }
 
+    // Call a function that returns dynamically
+    // created functions
+    val mult3 = makeMathFunc(3)
+    println("5 * 3 = ${mult3(5)}")
+
 
 
 }
@@ -380,7 +385,9 @@ fun fact(x: Int): Int {
 
 // ----- Higher Order Functions -----
 
-
+// Returns a custom function that multiplies values
+// times the value passed to it
+fun makeMathFunc(num1: Int): (Int) -> Int = { num2 -> num1 * num2 }
 
 
 

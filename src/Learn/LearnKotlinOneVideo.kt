@@ -331,7 +331,7 @@ fun main(args: Array<String>) {
 
     // Calculate the Factorial with Tail Recursion
     // Factorial 5 * 4 * 3 * 2 * 1
-//  println("5! = ${fact(5)}")  // Unresolved reference
+    println("5! = ${fact(5)}")  // Unresolved reference
 
 
 
@@ -355,7 +355,14 @@ fun getSum(vararg nums: Int): Int {
     return sum
 }
 
-
+// Factorial
+fun fact(x: Int): Int {
+    tailrec fun factTail(y: Int, z: Int): Int {
+        if (y == 0) return z
+        else return factTail(y -1, y * z)
+    }
+    return factTail(x, 1)
+}
 
 
 

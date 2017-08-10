@@ -452,6 +452,11 @@ fun main(args: Array<String>) {
     list1.removeAt(0)
     println(list1)
 
+    // Add value at index
+    list1[3] = 10
+    println(list1)
+
+
 
 
 

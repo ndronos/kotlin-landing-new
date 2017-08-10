@@ -403,6 +403,10 @@ fun main(args: Array<String>) {
     // ----- Lists -----
     // There are immutable Lists and mutable MutableLists
 
+    // Create a immutable list
+    val list2: List<Int> = listOf(1,2,3)
+    println(list2)
+
 
 
 }

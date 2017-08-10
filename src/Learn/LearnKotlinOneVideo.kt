@@ -467,6 +467,12 @@ fun main(args: Array<String>) {
     // var nullVal: String = null
     // Null can not be a value of a non-null type String
 
+    // To allow for a null value use ?
+    var nullVal: String? = null
+    println(nullVal)
+
+
+
 
 }
 

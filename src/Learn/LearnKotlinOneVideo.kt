@@ -460,6 +460,10 @@ fun main(args: Array<String>) {
     list1.forEach { n -> println("Mutable List: $n") }
 
 
+    // ----- Null Safety ----
+    // Null safety is built into Kotlin
+
+
 
 }
 

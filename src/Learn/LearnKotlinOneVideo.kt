@@ -378,6 +378,12 @@ fun main(args: Array<String>) {
     val big3 = numList2.filter { it > 3 }
     big3.forEach { n -> println(">3: $n") }
 
+    // use "map" to perform an action on every item
+    // and return a new list
+    val times7 = numList2.map { it * 7 }
+    times7.forEach { n -> println("*7: $n") }
+
+
 
 }
 

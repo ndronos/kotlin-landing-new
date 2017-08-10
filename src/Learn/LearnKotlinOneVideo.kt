@@ -322,6 +322,8 @@ fun main(args: Array<String>) {
 //  val (two, three) = nextTwo(1) // Unresolved reference
 //  println("1 $two $three")
 
+    // Send a variable number of parameters
+//  println("Sum: ${getSum(1,2,3,4,5)}") // Unresolved reference
 
 
 

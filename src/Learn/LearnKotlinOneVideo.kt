@@ -463,6 +463,9 @@ fun main(args: Array<String>) {
     // ----- Null Safety ----
     // Null safety is built into Kotlin
 
+    // By default you cannot assign null
+    // var nullVal: String = null
+    // Null can not be a value of a non-null type String
 
 
 }

@@ -429,6 +429,10 @@ fun main(args: Array<String>) {
     println("[1] 2nd: ${list2[1]}")
     println("[2] 3rd: ${list2[2]}")
 
+    // Get a list starting from index to another
+    var list3 = list1.subList(0, 3)
+    println(list3)
+
 }
 
 

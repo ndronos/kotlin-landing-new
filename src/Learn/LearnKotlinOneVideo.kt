@@ -410,6 +410,11 @@ fun main(args: Array<String>) {
     var list1: MutableList<Int> = mutableListOf(1,2,3,4,5)
     println(list1)
 
+    // Add an item
+    list1.add(6)
+    println(list1)
+
+
 
 }
 

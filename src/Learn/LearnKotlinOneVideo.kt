@@ -351,6 +351,11 @@ fun main(args: Array<String>) {
     val mult3 = makeMathFunc(3)
     println("5 * 3 = ${mult3(5)}")
 
+    // A function that receives a list and a function
+    val multiply2 = { num1: Int -> num1 * 2 }
+    val numList2 = arrayOf(1,2,3,4,5)
+    mathOnList(numList2, multiply2)
+
 
 
 }
@@ -390,7 +395,12 @@ fun fact(x: Int): Int {
 fun makeMathFunc(num1: Int): (Int) -> Int = { num2 -> num1 * num2 }
 
 
-
+// Receives a list and a function to use on the list
+fun mathOnList(numList: Array<Int>, myFunc: (num: Int) -> Int ) {
+    for (num in numList) {
+        println("MathOnList: ${myFunc(num)}")
+    }
+}
 
 
 

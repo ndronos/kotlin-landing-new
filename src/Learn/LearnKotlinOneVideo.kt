@@ -414,6 +414,8 @@ fun main(args: Array<String>) {
     list1.add(6)
     println(list1)
 
+    // Get first item
+    println("1st: ${list1.first()}")
 
 
 }

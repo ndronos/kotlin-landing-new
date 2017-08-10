@@ -341,6 +341,10 @@ fun main(args: Array<String>) {
     // Use filter to find evens
     val numList = 1..20
 
+    // If a function has only one parameter you don't
+    // have to declare, but just use it instead
+    val evenList = numList.filter { it % 2 == 0 }
+    evenList.forEach { n -> println(n) }
 
 
 

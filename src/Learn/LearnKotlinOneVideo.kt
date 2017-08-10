@@ -299,6 +299,14 @@ fun main(args: Array<String>) {
     }
 
 
+    // ----- Functions -----
+    // Functions start with "fun", function name,
+    // parameters and return type
+
+    fun add(num1: Int, num2: Int) : Int = num1 + num2
+    println("5 + 4 = ${add(5,4)}")
+
+
 
 
 

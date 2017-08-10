@@ -371,6 +371,9 @@ fun main(args: Array<String>) {
     // check if any values are even
     println("Evens: ${numList2.any { it % 2 == 0 } }")
 
+    // check if all values are even
+    println("Evens: ${numList2.all { it % 2 == 0 } }")
+
 }
 
 

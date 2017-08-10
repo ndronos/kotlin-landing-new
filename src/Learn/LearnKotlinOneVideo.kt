@@ -417,6 +417,10 @@ fun main(args: Array<String>) {
     // Get first item
     println("1st: ${list1.first()}")
 
+    // Get last
+    println("Last: ${list1.last()}")
+
+
 
 }
 

@@ -323,7 +323,7 @@ fun main(args: Array<String>) {
     println("1 $two $three")
 
     // Send a variable number of parameters
-//  println("Sum: ${getSum(1,2,3,4,5)}") // Unresolved reference
+    println("Sum: ${getSum(1,2,3,4,5)}") // Unresolved reference
 
     // We can define function literals
     val multiply = {num1: Int, num2: Int -> num1 * num2}
@@ -345,7 +345,15 @@ fun nextTwo(num: Int): Pair<Int, Int> {
     return Pair(num + 1, num + 2)
 }
 
+// Receive variable number of parameters
+fun getSum(vararg nums: Int): Int {
+    var sum = 0
 
+    // for each value in the array add it to sum
+    nums.forEach { n -> sum += n }
+
+    return sum
+}
 
 
 

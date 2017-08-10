@@ -318,6 +318,9 @@ fun main(args: Array<String>) {
     fun sayHello(name: String) : Unit = println("Hello $name")
     sayHello("Kotlin")
 
+    // Function can return 2 values with Pair and 3 with Triple
+//  val (two, three) = nextTwo(1) // Unresolved reference
+//  println("1 $two $three")
 
 
 

@@ -443,6 +443,10 @@ fun main(args: Array<String>) {
     println("list3: $list3")
     println("list1: $list1")
 
+    // Remove a value
+    println(list1)
+    list1.remove(1)
+    println(list1)
 
 
 

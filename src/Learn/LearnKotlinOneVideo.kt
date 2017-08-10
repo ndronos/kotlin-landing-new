@@ -471,6 +471,8 @@ fun main(args: Array<String>) {
     var nullVal: String? = null
     println(nullVal)
 
+    // A function that may return null uses ?
+    // fun myFun(): String?
 
 
 

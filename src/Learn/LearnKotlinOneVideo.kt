@@ -474,6 +474,14 @@ fun main(args: Array<String>) {
     // A function that may return null uses ?
     // fun myFun(): String?
 
+    // Kotlin provides for the oportunity of a
+    // null value if an if statement protects from danger
+    fun returnNull(): String? {
+        return null
+    }
+
+    var nullVal2 = returnNull()
+
 
 
 }

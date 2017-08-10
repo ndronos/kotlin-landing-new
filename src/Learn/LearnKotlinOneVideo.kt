@@ -368,6 +368,8 @@ fun main(args: Array<String>) {
     val listSum2 = numList2.fold(5) { x, y -> x + y }
     println("Fold Sum: $listSum2")
 
+    // check if any values are even
+    println("Evens: ${numList2.any { it % 2 == 0 } }")
 
 }
 

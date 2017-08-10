@@ -374,6 +374,11 @@ fun main(args: Array<String>) {
     // check if all values are even
     println("Evens: ${numList2.all { it % 2 == 0 } }")
 
+    // return a list of values greater than 3
+    val big3 = numList2.filter { it > 3 }
+    big3.forEach { n -> println(">3: $n") }
+
+
 }
 
 

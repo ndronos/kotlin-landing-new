@@ -439,8 +439,12 @@ fun main(args: Array<String>) {
 
     // Clear a Mutable list
     println(list3)
-    list3.clear()
-    println(list3)
+//  list3.clear()               // affects list1
+    println("list3: $list3")
+    println("list1: $list1")
+
+
+
 
 
 

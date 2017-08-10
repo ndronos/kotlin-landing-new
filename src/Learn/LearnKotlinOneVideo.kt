@@ -329,6 +329,9 @@ fun main(args: Array<String>) {
     val multiply = {num1: Int, num2: Int -> num1 * num2}
     println("5 * 3 = ${multiply(5,3)}")
 
+    // Calculate the Factorial with Tail Recursion
+    // Factorial 5 * 4 * 3 * 2 * 1
+//  println("5! = ${fact(5)}")  // Unresolved reference
 
 
 

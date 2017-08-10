@@ -334,6 +334,15 @@ fun main(args: Array<String>) {
     println("5! = ${fact(5)}")  // Unresolved reference
 
 
+    // ----- Higher Order Functions -----
+    // High Order functions either accepts or
+    // returns another functions
+
+    // Use filter to find evens
+    val numList = 1..20
+
+
+
 
 }
 
@@ -364,6 +373,8 @@ fun fact(x: Int): Int {
     return factTail(x, 1)
 }
 
+
+// ----- Higher Order Functions -----
 
 
 

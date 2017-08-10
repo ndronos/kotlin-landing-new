@@ -357,8 +357,19 @@ fun main(args: Array<String>) {
     mathOnList(numList2, multiply2)
 
 
+    // ----- Collection Operators -----
+
+    // Use "reduce" to sum values in a list
+    val listSum = numList2.reduce { x, y ->  x + y }
+    println("Reduce Sum: $listSum")
+
+
 
 }
+
+
+
+
 
 
 // ----- Functions -----

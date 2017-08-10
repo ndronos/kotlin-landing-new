@@ -363,6 +363,10 @@ fun main(args: Array<String>) {
     val listSum = numList2.reduce { x, y ->  x + y }
     println("Reduce Sum: $listSum")
 
+    // "fold" is like "reduce", but it starts with
+    // an initial value
+    val listSum2 = numList2.fold(5) { x, y -> x + y }
+    println("Fold Sum: $listSum2")
 
 
 }

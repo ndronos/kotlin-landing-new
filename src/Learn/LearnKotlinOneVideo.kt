@@ -433,6 +433,13 @@ fun main(args: Array<String>) {
     var list3 = list1.subList(0, 3)
     println(list3)
 
+    // Size of List
+    println(list1)
+    println("Length: ${list1.size}")
+
+
+
+
 }
 
 

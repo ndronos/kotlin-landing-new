@@ -319,8 +319,8 @@ fun main(args: Array<String>) {
     sayHello("Kotlin")
 
     // Function can return 2 values with Pair and 3 with Triple
-//  val (two, three) = nextTwo(1) // Unresolved reference
-//  println("1 $two $three")
+    val (two, three) = nextTwo(1) // Unresolved reference
+    println("1 $two $three")
 
     // Send a variable number of parameters
 //  println("Sum: ${getSum(1,2,3,4,5)}") // Unresolved reference
@@ -337,6 +337,13 @@ fun main(args: Array<String>) {
 
 }
 
+
+// ----- Functions -----
+
+// Return 2 values
+fun nextTwo(num: Int): Pair<Int, Int> {
+    return Pair(num + 1, num + 2)
+}
 
 
 

@@ -306,8 +306,10 @@ fun main(args: Array<String>) {
     fun add(num1: Int, num2: Int) : Int = num1 + num2
     println("5 + 4 = ${add(5,4)}")
 
-
-
+    // Don't need a return type with single line functions
+    // Can define default values for parameters
+    fun subtract(num1: Int = 1, num2: Int = 1) = num1 - num2
+    println("5 - 4 = ${subtract(5,4)}")
 
 
 

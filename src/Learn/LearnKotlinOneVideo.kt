@@ -400,6 +400,10 @@ fun main(args: Array<String>) {
     }
 
 
+    // ----- Lists -----
+    // There are immutable Lists and mutable MutableLists
+
+
 
 }
 

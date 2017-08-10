@@ -384,6 +384,22 @@ fun main(args: Array<String>) {
     times7.forEach { n -> println("*7: $n") }
 
 
+    // ----- Exception Handling -----
+    // Exceptions are handled just like with Java
+
+    val divisor = 2
+
+    try {
+        if (divisor == 0) {
+            throw IllegalArgumentException("Can't divide by Zero")
+        } else {
+            println("5 / $divisor = ${5/divisor}")
+        }
+    } catch (e: IllegalArgumentException) {
+        println("${e.message}")
+    }
+
+
 
 }
 

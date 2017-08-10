@@ -437,6 +437,10 @@ fun main(args: Array<String>) {
     println(list1)
     println("Length: ${list1.size}")
 
+    // Clear a Mutable list
+    println(list3)
+    list3.clear()
+    println(list3)
 
 
 

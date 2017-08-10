@@ -420,7 +420,14 @@ fun main(args: Array<String>) {
     // Get last
     println("Last: ${list1.last()}")
 
+    // Get value at index
+    println("[0] 1st: ${list1[0]}")
+    println("[1] 2nd: ${list1[1]}")
+    println("[2] 3rd: ${list1[2]}")
 
+    println("[0] 1st: ${list2[0]}")
+    println("[1] 2nd: ${list2[1]}")
+    println("[2] 3rd: ${list2[2]}")
 
 }
 

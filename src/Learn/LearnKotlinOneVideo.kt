@@ -311,6 +311,11 @@ fun main(args: Array<String>) {
     fun subtract(num1: Int = 1, num2: Int = 1) = num1 - num2
     println("5 - 4 = ${subtract(5,4)}")
 
+    // You can use named parameters
+    println("5 - 4 = ${subtract(num1 = 5, num2 = 4)} ")
+
+
+
 
 
 

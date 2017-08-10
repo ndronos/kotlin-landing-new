@@ -448,6 +448,9 @@ fun main(args: Array<String>) {
     list1.remove(1)
     println(list1)
 
+    // Remove a value
+    list1.removeAt(0)
+    println(list1)
 
 
 

@@ -460,6 +460,12 @@ fun main(args: Array<String>) {
     list1.forEach { n -> println("Mutable List: $n") }
 
 
+    // ----- Maps -----
+    // modifiable collection that holds key value pairs
+
+
+
+
     // ----- Null Safety ----
     // Null safety is built into Kotlin
 
@@ -494,6 +500,7 @@ fun main(args: Array<String>) {
     // The Elvis operator assigns a default value if null
     var nullVal4: String = returnNull() ?: "No Name"
     println(nullVal4)
+
 
 }
 

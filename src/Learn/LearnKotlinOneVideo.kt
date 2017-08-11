@@ -533,6 +533,9 @@ fun main(args: Array<String>) {
 
     // ----- Classes -----
 
+    // Create an Animal Object
+    val bowser = Animal("Bowser", 20.0, 13.5)
+    println(bowser)
 
 
 
@@ -542,6 +545,14 @@ fun main(args: Array<String>) {
 
 // ----- Classes -----
 
+// There are no static methods
+// Classes are final by default unless marked open
+// The fields must also be marked as open
+
+open class Animal (val name: String, var height: Double, var weight: Double) {
+
+
+}
 
 
 

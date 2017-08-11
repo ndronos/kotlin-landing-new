@@ -479,6 +479,18 @@ fun main(args: Array<String>) {
     // Get size
     println("Map Size: ${map.size}")
 
+    // Add a key value
+    map.put(3, "Kotlin")
+    println(map)
+
+
+
+
+
+
+
+
+
 
 
     // ----- Null Safety ----

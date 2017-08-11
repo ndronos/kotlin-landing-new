@@ -463,6 +463,10 @@ fun main(args: Array<String>) {
     // ----- Maps -----
     // modifiable collection that holds key value pairs
 
+    // Create a Map
+    val map = mutableMapOf<Int, Any?>()
+    println(map)
+
 
 
 

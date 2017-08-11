@@ -590,6 +590,17 @@ open class Animal (val name: String, var height: Double, var weight: Double) {
 
 // ----- Inheritance ----
 
+class Dog (name: String,
+           height: Double,
+           weight: Double,
+           var owner: String): Animal(name, height, weight) {
+
+    override fun getInfo(): Unit {
+        println("$name is $weight tall, weighs $weight" +
+                "and is owned by $owner")
+    }
+
+}
 
 
 

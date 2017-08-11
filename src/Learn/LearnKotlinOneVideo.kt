@@ -545,6 +545,8 @@ fun main(args: Array<String>) {
     // Call  method in the class
     bowser.getInfo()
 
+    // ----- Inheritance ----
+
 
 
 

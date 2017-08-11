@@ -483,6 +483,11 @@ fun main(args: Array<String>) {
     map.put(3, "Kotlin")
     println(map)
 
+    // Remove a key and value
+    map.remove(1)   // not 0
+    map.remove(2)
+    println(map)
+
 
 
 

@@ -551,6 +551,10 @@ fun main(args: Array<String>) {
 
 open class Animal (val name: String, var height: Double, var weight: Double) {
 
+    // Objects are initialized in init
+    init {
+
+    }
 
 }
 

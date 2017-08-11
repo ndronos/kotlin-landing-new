@@ -547,7 +547,10 @@ fun main(args: Array<String>) {
 
     // ----- Inheritance ----
 
-
+    // Create a class dog that inherits from the Animal class
+    val spot = Dog("Spot", 20.0, 14.5, "Paul Smith")
+    // Call method
+    spot.getInfo()
 
 
 } // main() ends
@@ -584,6 +587,10 @@ open class Animal (val name: String, var height: Double, var weight: Double) {
     }
 
 }
+
+// ----- Inheritance ----
+
+
 
 
 

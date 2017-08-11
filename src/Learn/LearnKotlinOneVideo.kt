@@ -537,6 +537,10 @@ fun main(args: Array<String>) {
     val bowser = Animal("Bowser", 20.0, 13.5)
     println(bowser)
 
+    println(bowser.name)
+    println(bowser.height)
+    println(bowser.weight)
+    println(bowser.getInfo())
 
 
 

@@ -471,6 +471,11 @@ fun main(args: Array<String>) {
     val map2 = mutableMapOf(1 to "Doug", 2 to 25)
     println(map2)
 
+    // Add values
+    map[1] = "IntelliJ"
+    map[2] = "IDEA"
+    println(map)
+
 
 
     // ----- Null Safety ----

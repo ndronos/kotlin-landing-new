@@ -561,6 +561,8 @@ open class Animal (val name: String, var height: Double, var weight: Double) {
         // IllegalArgumentException is thrown
         require(!name.matches(regex)) {"Animal Name can't Contain Numbers"}
 
+        require(height > 0) {"Height must be greater than 0"}
+
     }
 
     // If you want to allow overriding of this method

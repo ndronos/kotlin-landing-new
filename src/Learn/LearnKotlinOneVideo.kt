@@ -554,6 +554,11 @@ fun main(args: Array<String>) {
 
     // ----- Interfaces -----
 
+    // Create a Bird object that implements
+    // Flyable interface
+    val tweety = Bird("Tweety", true)
+
+    tweety.fly(10.0)
 
 
 
@@ -611,7 +616,11 @@ class Dog (name: String,
 // An interface is a contract that states all fields
 // and methods a class must implement
 
+interface Flyable {
+    var flies: Boolean
 
+    fun fly(distMiles: Double): Unit
+}
 
 
 

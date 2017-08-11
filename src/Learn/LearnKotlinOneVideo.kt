@@ -552,6 +552,11 @@ fun main(args: Array<String>) {
     // Call method
     spot.getInfo()
 
+    // ----- Interfaces -----
+
+
+
+
 
 } // main() ends
 
@@ -601,6 +606,11 @@ class Dog (name: String,
     }
 
 }
+
+// ----- Interfaces -----
+// An interface is a contract that states all fields
+// and methods a class must implement
+
 
 
 

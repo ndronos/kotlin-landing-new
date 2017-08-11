@@ -487,6 +487,12 @@ fun main(args: Array<String>) {
         println(nullVal2.length)
     }
 
+    // We could use the force operator !! to
+    // force a null assignment
+//  var nullVal3 = nullVal2!!.length // Exception in thread...
+
+
+
 
 }
 

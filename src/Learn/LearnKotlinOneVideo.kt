@@ -563,6 +563,8 @@ open class Animal (val name: String, var height: Double, var weight: Double) {
 
         require(height > 0) {"Height must be greater than 0"}
 
+        require(weight > 0) {"Weight must be greater than 0"}
+
     }
 
     // If you want to allow overriding of this method

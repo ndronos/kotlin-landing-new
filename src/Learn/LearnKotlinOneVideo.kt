@@ -467,6 +467,9 @@ fun main(args: Array<String>) {
     val map = mutableMapOf<Int, Any?>()
     println(map)
 
+    // Create a Map and add values
+    val map2 = mutableMapOf(1 to "Doug", 2 to 25)
+    println(map2)
 
 
 

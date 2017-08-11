@@ -554,6 +554,11 @@ open class Animal (val name: String, var height: Double, var weight: Double) {
     // Objects are initialized in init
     init {
 
+        // Regex that matches for a number any place in a string
+        val regex = Regex(".*\\d+.*")
+
+
+
     }
 
 }

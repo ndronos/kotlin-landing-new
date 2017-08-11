@@ -482,7 +482,10 @@ fun main(args: Array<String>) {
 
     var nullVal2 = returnNull()
 
-
+    // This is a smart cast
+    if(nullVal2 != null) {
+        println(nullVal2.length)
+    }
 
 
 }

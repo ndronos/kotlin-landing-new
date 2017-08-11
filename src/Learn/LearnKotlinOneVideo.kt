@@ -494,14 +494,6 @@ fun main(args: Array<String>) {
     }
 
 
-
-
-
-
-
-
-
-
     // ----- Null Safety ----
     // Null safety is built into Kotlin
 
@@ -538,7 +530,18 @@ fun main(args: Array<String>) {
     println(nullVal4)
 
 
-}
+
+    // ----- Classes -----
+
+
+
+
+
+} // main() ends
+
+
+// ----- Classes -----
+
 
 
 

@@ -491,8 +491,9 @@ fun main(args: Array<String>) {
     // force a null assignment
 //  var nullVal3 = nullVal2!!.length // Exception in thread...
 
-
-
+    // The Elvis operator assigns a default value if null
+    var nullVal4: String = returnNull() ?: "No Name"
+    println(nullVal4)
 
 }
 

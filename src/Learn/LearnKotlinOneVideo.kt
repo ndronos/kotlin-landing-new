@@ -17,7 +17,7 @@ fun main(args: Array<String>) {
 
     val name = "Kotlin"         // Create a read only variable
     val creation = 2011
-    var now = 2017              // Mutable (changeable) variable
+    val now = 2017              // Mutable (changeable) variable
     println(now - creation)
 
     // Kotlin uses Type Inference, but you can define the type
@@ -90,7 +90,7 @@ fun main(args: Array<String>) {
     println(longStr)
 
     var fName = "JetBrains"
-    var lName = "IDEA"
+    val lName = "IDEA"
 
     // you can change values
     fName = "IntelliJ"
@@ -98,7 +98,7 @@ fun main(args: Array<String>) {
     println(fName)
 
     // you can combine strings
-    var fullName = fName + " " + lName
+    val fullName = fName + " " + lName
 
     println(fullName)
 
@@ -111,8 +111,8 @@ fun main(args: Array<String>) {
     // get length
     println("String length of '$longStr'0 is ${longStr.length}")
 
-    var str1 = "A Random String"
-    var str2 = "a random string"
+    val str1 = "A Random String"
+    val str2 = "a random string"
 
     // Compare strings
     println("Strings Equal: ${str1.equals(str2)}")
@@ -134,7 +134,7 @@ fun main(args: Array<String>) {
 
     // ----- Arrays -----
     // can store multiple types in arrays
-    var myArray = arrayOf(1, 1.23, "Doug")
+    val myArray = arrayOf(1, 1.23, "Doug")
 
     println(myArray)
 
@@ -154,7 +154,7 @@ fun main(args: Array<String>) {
     println("Doug in Array: ${myArray.contains("Doug")}")
 
     // Get first elements in array as an array
-    var partArray = myArray.copyOfRange(0,1)
+    val partArray = myArray.copyOfRange(0,1)
 
     // Get the first element
     println("First: ${str1.first()}")
@@ -164,7 +164,7 @@ fun main(args: Array<String>) {
     println("Doug Index: ${str1.indexOf("Random")}")
 
     // Create an array of squares
-    var sqArray = Array(5, {x -> x * x})
+    val sqArray = Array(5, {x -> x * x})
     println(sqArray[0])
     println(sqArray[1])
     println(sqArray[2])
@@ -172,7 +172,7 @@ fun main(args: Array<String>) {
     println(sqArray[4])
 
     // There are type specific arrays
-    var arr2: Array<Int> = arrayOf(1, 2, 3)
+    val arr2: Array<Int> = arrayOf(1, 2, 3)
     println(arr2[0])
     println(arr2[1])
     println(arr2[2])
@@ -286,7 +286,7 @@ fun main(args: Array<String>) {
 
 
     //
-    var arr3: Array<Int> = arrayOf(3, 6, 9)
+    val arr3: Array<Int> = arrayOf(3, 6, 9)
 
     // Iterate for indexes
     for (i in arr3.indices) {
@@ -407,7 +407,7 @@ fun main(args: Array<String>) {
     val list2: List<Int> = listOf(1,2,3)
     println(list2)
 
-    var list1: MutableList<Int> = mutableListOf(1,2,3,4,5)
+    val list1: MutableList<Int> = mutableListOf(1,2,3,4,5)
     println(list1)
 
     // Add an item
@@ -430,7 +430,7 @@ fun main(args: Array<String>) {
     println("[2] 3rd: ${list2[2]}")
 
     // Get a list starting from index to another
-    var list3 = list1.subList(0, 3)
+    val list3 = list1.subList(0, 3)
     println(list3)
 
     // Size of List
@@ -502,7 +502,7 @@ fun main(args: Array<String>) {
     // Null can not be a value of a non-null type String
 
     // To allow for a null value use ?
-    var nullVal: String? = null
+    val nullVal: String? = null
     println(nullVal)
 
     // A function that may return null uses ?
@@ -514,7 +514,7 @@ fun main(args: Array<String>) {
         return null
     }
 
-    var nullVal2 = returnNull()
+    val nullVal2 = returnNull()
 
     // This is a smart cast
     if(nullVal2 != null) {
@@ -526,7 +526,7 @@ fun main(args: Array<String>) {
 //  var nullVal3 = nullVal2!!.length // Exception in thread...
 
     // The Elvis operator assigns a default value if null
-    var nullVal4: String = returnNull() ?: "No Name"
+    val nullVal4: String = returnNull() ?: "No Name"
     println(nullVal4)
 
 
@@ -607,7 +607,7 @@ class Dog (name: String,
 
     override fun getInfo(): Unit {
         println("$name is $weight tall, weighs $weight" +
-                "and is owned by $owner")
+                " and is owned by $owner")
     }
 
 }

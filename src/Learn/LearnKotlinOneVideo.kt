@@ -561,6 +561,12 @@ open class Animal (val name: String, var height: Double, var weight: Double) {
 
     }
 
+    // If you want to allow overriding of this method
+    // you must use "open"
+    open fun getInfo(): Unit {
+        println("$name is $height tall and weighs $weight")
+    }
+
 }
 
 

@@ -488,6 +488,10 @@ fun main(args: Array<String>) {
     map.remove(2)
     println(map)
 
+    // Iterate and get keys and values
+    for ((x, y) in map) {
+        println("Key: $x Value: $y")
+    }
 
 
 

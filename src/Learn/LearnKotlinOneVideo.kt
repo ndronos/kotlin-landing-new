@@ -476,6 +476,9 @@ fun main(args: Array<String>) {
     map[2] = "IDEA"
     println(map)
 
+    // Get size
+    println("Map Size: ${map.size}")
+
 
 
     // ----- Null Safety ----

@@ -718,7 +718,7 @@ Reference:
 
 ## [Kotlin: The Future of Android Development](http://youtube.com/watch?v=wQIJ8xISCc)
 [Article](https://simpleprogrammer.com/2017/08/10/kotlin-future-android-development/)
-
+7:05
 
 
 

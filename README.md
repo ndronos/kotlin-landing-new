@@ -720,6 +720,7 @@ Reference:
 Youtube/[Simple Programmer](https://www.youtube.com/channel/UCFxdcuY-S6yjZGq_2cjilHg)
 [Article](https://simpleprogrammer.com/2017/08/10/kotlin-future-android-development/)
 [Blog](https://simpleprogrammer.com/)
+John Sonmez
 7:05
 
 

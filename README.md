@@ -716,4 +716,28 @@ Reference:
 # /Articles
 
 
-## Kotlin: The Future of Android Development
+## [Kotlin: The Future of Android Development](https://simpleprogrammer.com/2017/08/10/kotlin-future-android-development/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -717,8 +717,9 @@ Reference:
 
 
 ## [Kotlin: The Future of Android Development](https://www.youtube.com/watch?v=wQIJP8xlSCc)
-[Article](https://simpleprogrammer.com/2017/08/10/kotlin-future-android-development/)
 Youtube/[Simple Programmer](https://www.youtube.com/channel/UCFxdcuY-S6yjZGq_2cjilHg)
+[Article](https://simpleprogrammer.com/2017/08/10/kotlin-future-android-development/)
+[Blog](https://simpleprogrammer.com/)
 7:05
 
 

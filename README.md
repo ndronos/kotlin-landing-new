@@ -719,7 +719,8 @@ Reference:
 ## [Kotlin: The Future of Android Development](https://www.youtube.com/watch?v=wQIJP8xlSCc)
 Youtube/[Simple Programmer](https://www.youtube.com/channel/UCFxdcuY-S6yjZGq_2cjilHg) - [Blog](https://simpleprogrammer.com/)/[Article](https://simpleprogrammer.com/2017/08/10/kotlin-future-android-development/)  
 by John Sonmez [@jsonmez](https://https://twitter.com/hsonmez) [PluralSight](https://www.pluralsight.com/authors/john-sonmez)  
-7:05
+Aug 2, 2017  
+7:05  
 
 
 

@@ -1,5 +1,7 @@
 # kotlin-landing
 
+[Kotlin is Awesome](https://kotlin.link/)
+
 
 # /src
 

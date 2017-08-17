@@ -1,7 +1,8 @@
 # kotlin-landing
 
-[Kotlin is Awesome](https://kotlin.link/)  
-Github:[KotlinBy](https://github.com/KotlinBy)/[awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)
+# [Kotlin is Awesome](https://kotlin.link/)  
+Github:[KotlinBy](https://github.com/KotlinBy)/[awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)  
+A curated list of awesome Kotlin related stuff inspired by awesome-java.
 
 
 # /src

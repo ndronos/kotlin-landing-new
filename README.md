@@ -727,6 +727,9 @@ Aug 2, 2017
 7:05  
 
 
+#### /Else  
+https://hashnode.com/post/why-i-abandoned-java-in-favour-of-kotlin-ciuzhmecf09khdc530m1ghu6d
+
 
 # /Videos
 

@@ -734,6 +734,9 @@ Nov, 1 2016
 https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5  
 May, 10 2017  
 
+https://m.signalvnoise.com/how-we-made-basecamp-3s-android-app-100-kotlin-35e4e1c0ef12
+Apr, 29 2017
+
 
 https://hashnode.com/n/kotlin  
 

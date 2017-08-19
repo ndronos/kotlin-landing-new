@@ -758,6 +758,10 @@ Jun 17
 May 28, 2016  
 
 
+[How I fell in love with a programming language](https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language-8933d5e749ed)  
+After a month with Kotlin, I finally understand what the hell DHH has been saying about Ruby all these years!  
+May 14, 2016  
+
 https://hashnode.com/n/kotlin  
 
 https://medium.com/tag/kotlin  

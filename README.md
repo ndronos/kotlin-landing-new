@@ -737,30 +737,26 @@ May, 10 2017
 
 #### /Articles by [Dan Kim](https://m.signalvnoise.com/@lateplate)
 
-https://m.signalvnoise.com/how-we-made-basecamp-3s-android-app-100-kotlin-35e4e1c0ef12  
-Apr, 29 2017    
-
-
-
 [How we made Basecamp 3’s Android app 100% Kotlin](https://m.signalvnoise.com/how-we-made-basecamp-3s-android-app-100-kotlin-35e4e1c0ef12)  
 Our best advice based on a year of real-world shipping.  
-Apr 29  
+Apr 29, 2017  
 
 [Kotlin makes me a happier (better) programmer](https://m.signalvnoise.com/kotlin-makes-me-a-happier-better-programmer-1fc668724563)  
 What’s Kotlin’s best feature? Creating programmer happiness.  
-Jun 10  
+Jun 10, 2017  
 
 [Kotlin: It’s the little things](https://m.signalvnoise.com/kotlin-its-the-little-things-8c0f501bc6ea)  
-Jun 17  
-
+Jun 17, 2017  
 
 [Some of my favorite Kotlin features (that we use a lot in Basecamp)](https://m.signalvnoise.com/some-of-my-favorite-kotlin-features-that-we-use-a-lot-in-basecamp-5ac9d6cea95)  
 May 28, 2016  
 
-
 [How I fell in love with a programming language](https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language-8933d5e749ed)  
 After a month with Kotlin, I finally understand what the hell DHH has been saying about Ruby all these years!  
 May 14, 2016  
+
+
+
 
 https://hashnode.com/n/kotlin  
 

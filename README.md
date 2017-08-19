@@ -742,6 +742,13 @@ Apr, 29 2017
 
 
 
+[How we made Basecamp 3’s Android app 100% Kotlin](https://m.signalvnoise.com/how-we-made-basecamp-3s-android-app-100-kotlin-35e4e1c0ef12)  
+Our best advice based on a year of real-world shipping.  
+Apr 29  
+
+
+
+
 
 
 

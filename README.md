@@ -750,6 +750,10 @@ Apr 29
 What’s Kotlin’s best feature? Creating programmer happiness.  
 Jun 10  
 
+[Kotlin: It’s the little things](https://m.signalvnoise.com/kotlin-its-the-little-things-8c0f501bc6ea)  
+Jun 17  
+
+
 
 
 

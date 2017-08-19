@@ -746,8 +746,9 @@ Apr, 29 2017
 Our best advice based on a year of real-world shipping.  
 Apr 29  
 
-
-
+[Kotlin makes me a happier (better) programmer](https://m.signalvnoise.com/kotlin-makes-me-a-happier-better-programmer-1fc668724563)  
+What’s Kotlin’s best feature? Creating programmer happiness.  
+Jun 10  
 
 
 
